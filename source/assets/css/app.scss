@@ -30,6 +30,9 @@ body.special-event {
     font: $hodlween;
     font-size: 2em;
   }
+  h2 {
+    font-size: 3.5em;
+  }
   .header {
       margin: 0 auto;
     img {
@@ -42,7 +45,7 @@ body.special-event {
   main {
     margin: 0 auto;
     text-align: center;
-    font-size: 1.1em;
+    font-size: 1.2em;
   }
 }
 a {
@@ -57,7 +60,9 @@ a:hover {
 }
 
 .navbar-dark {
-  background-color: $purple !important;
+  .navbar-nav {
+    background-color: $dark;
+  }
 }
 #wrapper {
   background: url(/assets/img/hdr-bg.jpg) no-repeat top center;
@@ -129,8 +134,9 @@ a.orange-pill-btn {
   }
 }
 .highlight-section {
-  padding: 100px 0;
+  padding: 100px 0 150px;
   margin: auto;
+  clear: both;
 }
 .highlight-section2 {
   margin: 60px auto 0;
@@ -167,6 +173,44 @@ a.orange-pill-btn {
       color: $light4;
       font-size: 30px;
     }
+  }
+}
+
+article {
+  clear: both;
+  padding: 0 0 170px;
+  float: left;
+  img {
+    float: left;
+    width: 550px;
+    display: inline-block;
+    box-shadow: -15px 15px 0px 2px rgba(128,76,136,0.3);
+    -webkit-box-shadow: -15px 15px 0px 2px rgba(128,76,136,0.3);
+    -moz-box-shadow: -15px 15px 0px 2px rgba(128,76,136,0.3);
+    display: block;
+  }
+  h2, p {
+    text-align: left;
+    padding-left: 600px;
+    line-height: 2;
+  }
+  h2 {
+    color: $light;
+
+  }
+}
+
+article:nth-child(even) {
+  img {
+    float: right;
+    box-shadow: 15px 15px 0px 2px rgba(128,76,136,0.3);
+    -webkit-box-shadow: 15px 15px 0px 2px rgba(128,76,136,0.3);
+    -moz-box-shadow: 15px 15px 0px 2px rgba(128,76,136,0.3);
+  }
+  h2, p {
+    text-align: right;
+    padding-right: 600px;
+    padding-left: 0px;
   }
 }
 
@@ -236,17 +280,108 @@ footer.container {
 
 @media (max-width: 1300px) {
 
+
 }
 
 @media (max-width: 767px) {
+    body.special-event {
+      h1, h2, h3 {
+        font-size: 2em;
+      }
+      h2 {
+        font-size: 3.5em;
+      }
+      .header {
+          margin: 0 auto;
+        img {
+          max-height: 800px;
+          width: 100%;
+          max-width: 800px;
+        }
+      }
+      main {
+        margin: 0 auto;
+        font-size: 1em;
+      }
+    }
+
     #wrapper {
       background-size: 240% auto;
     }
     #hodlween-logo {
       width: 100%;
       height: 28vw;
-      margin: 29vw auto;
+      margin: 29vw auto 21vw;
     }
+    .header {
+      #scribble-party {
+        background: url(/assets/img/scribble.png) no-repeat;
+        background-size: 230px 100px;
+        display: block;
+        width: 230px;
+        height: 100px;
+        position: relative;
+        margin: -55px auto 0;
+        bottom: -55px;
+        right: -163px;
+      }
+      span {
+        line-height: 1.1;
+        &.headline {
+          font-size: 9vw;
+        }
+        &.headline2 {
+          font-size: 7vw;
+        }
+      }
+      .white-divider {
+        width: 100%;
+        margin: 10px auto 6px;
+      }
+    }
+    a.orange-pill-btn {
+      background-size: 163px 49px;
+      font-size: 26px;
+      height: 49px;
+      width: 163px;
+      margin: 12px auto 0;
+      line-height: 1.7;
+    }
+    .highlight-section, .highlight-section2 {
+      p {
+        line-height: 1.6;
+        width: 100%;
+      }
+    }
+    .highlight-section {
+      padding: 13vw 0 3vw;
+    }
+    .highlight-section2 {
+      margin: 60px auto 0;
+      .hodlween-font {
+        font-size: 37px;
+        line-height: 1;
+      }
+    }
+    .ticket-price-increase { 
+      margin: 0 0 17vw;
+      > span{
+        font-size: 8vw;
+      }
+    }
+    #countdown-ticker {
+      div {
+        margin: 20px 3vw 0;
+        span:first-child {
+          font-size: 24vw;
+          margin-bottom: 9vw;
+        }
+        span:last-child {
+          font-size: 6vw;
+        }
+      }
+    }
+
     .sidebar {
         padding-top: 30px;
     }
