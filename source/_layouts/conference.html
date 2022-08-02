@@ -46,7 +46,7 @@
                 <div class="tri"></div>
             </a>
             <div class="collapse navbar-collapse" id="navbarCollapse">
-                {% set navigation_bar = [['conference', 'Home'], ['conference/tickets', 'Tickets'], ['conference/about', 'About']] %}
+                {% set navigation_bar = [['conference/', 'Home'], ['conference/tickets', 'Tickets'], ['conference/about', 'About']] %}
                 {% block navigation %}
                 <ul class="navbar-nav mr-auto">
                     {% for item in navigation_bar %}

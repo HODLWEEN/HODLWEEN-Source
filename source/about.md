@@ -5,4 +5,4 @@ active_tab: about
 
 ---
 
-about normie page
+about page

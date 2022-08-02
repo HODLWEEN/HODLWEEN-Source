@@ -2,7 +2,7 @@
 layout: conference
 title: HODLWEEN 2022
 path: conference
-active_tab: conference
+active_tab: conference/
 
 ---
 
