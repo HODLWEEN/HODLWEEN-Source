@@ -170,22 +170,25 @@ a.orange-pill-btn {
   clear: both;
 }
 .highlight-section2 {
-  margin: 50px auto 150px;
+  padding: 50px 0 150px;
 }
 .highlight-section3 {
-  margin: 100px auto 150px;
+  padding: 100px 0 150px;
 }
 .highlight-section4 {
-  margin: 50px auto 50px;
+  padding: 50px 0 50px;
 }
 .highlight-section5 {
-  margin: 100px auto 100px;
+  padding: 100px 0 100px;
 }
 
 .hodlween-font {
   font: $hodlween;
   font-size: 37px;
   line-height: 1 !important;
+  span {
+    clear: both;
+  }
 }
 
 .ticket-price-increase { 
@@ -263,7 +266,7 @@ article {
   .buy-links {
     list-style: none;
     .buy-link {
-      font-size: .9em;
+      font-size: 1em;
       line-height: 2.5;
     }
     .orange-pill-btn {
@@ -449,7 +452,7 @@ footer .container {
       h1, h2, h3 {
         font-size: 2em;
       }
-      h2 {
+      h2, h3 {
         font-size: 10vw;
         line-height: 1;
       }
@@ -477,15 +480,12 @@ footer .container {
     }
     .header {
       #scribble-party {
-        background: url(/assets/img/scribble.png) no-repeat;
-        background-size: 230px 100px;
-        display: block;
-        width: 230px;
-        height: 100px;
-        position: relative;
-        margin: -55px auto 0;
-        bottom: -55px;
-        right: -163px;
+        background-size: 40vw 17vw;
+        width: 40vw;
+        height: 17vw;
+        margin: -14vw auto 0;
+        bottom: -9vw;
+        right: -27vw;
       }
       span {
         line-height: 1.1;
@@ -496,10 +496,14 @@ footer .container {
           font-size: 7vw;
         }
       }
-      .white-divider {
-        width: 100%;
-        margin: 10px auto 6px;
-      }
+    }
+    .white-divider,
+    .white-divider-mid {
+      width: 100%;
+      margin: 10px auto 6px;
+    }
+    .hodlween-font {
+      font-size: 7vw;
     }
     a.orange-pill-btn {
       background-size: 163px 49px;
@@ -509,7 +513,11 @@ footer .container {
       margin: 12px auto 0;
       line-height: 1.8;
     }
-    .highlight-section, .highlight-section2 {
+    .highlight-section,
+    .highlight-section2,
+    .highlight-section3,
+    .highlight-section4,
+    .highlight-section5 {
       p {
         line-height: 1.6;
         width: 100%;
@@ -519,13 +527,19 @@ footer .container {
       padding: 13vw 0 3vw;
     }
     .highlight-section2 {
-      margin: 10vw auto 0;
+      padding: 8vw 0 20vw;
     }
     .highlight-section3 {
-      margin: 15vw auto 20vw
+      padding: 10vw 0 20vw
+    }
+    .highlight-section4 {
+      padding: 10vw 0;
+    }
+    .highlight-section5 {
+      padding: 20vw 0;
     }
     .ticket-price-increase { 
-      margin: 0 0 17vw;
+      // margin: 0 0 17vw;
       > span{
         font-size: 7vw;
       }
@@ -550,16 +564,16 @@ footer .container {
         margin: auto;
         margin: 0 17px 10px;
       }
-      h2, p, .buy-links {
+      h2, p, .buy-links, .details, .white-divider {
         padding: 0 15px;
       }
     }
-    article:nth-child(odd) {
+    .col article:nth-child(odd) {
       float: none;
       img {
         // float: none;
       }
-      h2, p, .buy-links {
+      h2, p, .buy-links, .details, .white-divider {
         padding: 0 15px;
       }
     }

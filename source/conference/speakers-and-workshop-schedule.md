@@ -16,7 +16,7 @@ active_tab: conference/schedule
 
 <article>
 	<img src="/assets/img/pic1.jpg" />
-	<h2>Speakers and Workshops</h2>
+	<h2>Speakers & Workshops</h2>
 	<div class="white-divider"><div></div></div>
 	<div class="details"><div>
 		October 22nd, 2022 &nbsp;&nbsp;&nbsp; 8am-5pm &nbsp;&nbsp;&nbsp; The McColl Center
@@ -28,7 +28,7 @@ active_tab: conference/schedule
 	</ul>
 </article>
 
-
+<div class="highlight-section4">
 <h3>Schedule</h3>
 <div class="white-divider-mid"></div>
 <div class="table-responsive">
@@ -116,8 +116,9 @@ active_tab: conference/schedule
 	  	</tbody>
 	</table>
 </div>
+</div>
 
-
+<div class="highlight-section4">
 <h3>Speakers</h3>
 <div class="white-divider-mid"></div>
 
@@ -194,4 +195,5 @@ active_tab: conference/schedule
 	        </p>
 	    </div>
 	</div>
+</div>
 </div>

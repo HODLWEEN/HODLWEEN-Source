@@ -9,7 +9,7 @@ active_tab: conference
 <div class="highlight-section4">
     <p class="hodlween-font">
     You don't need permission to be your own bank
-	<br>and you don't need permission to party!
+	<span>and you don't need permission to party!</span>
     </p>
     <br>
     <p>
@@ -17,7 +17,7 @@ active_tab: conference
     </p>
 </div>
 
-<div class="highlight-section5">
+<div class="highlight-section2">
 	<div class="ticket-price-increase">
 	    <span id="ticket-price-increase-hdr">Ticket Price Increases in</span>
 	    <div id="countdown-ticker"></div>
@@ -25,16 +25,9 @@ active_tab: conference
 	</div>
 </div>
 
-<div class="highlight-section2">
-    <h2>Sponsors</h2>
-    <div class="white-divider-mid"></div>
-    <p>Sponsorship opportunities coming soon.<br><a href="mailto:hodl@bitcoincharlotte.org">Contact us for details.</a></p>
-    <!-- <a href="/conference/sponsorships" class="orange-pill-btn">Sponsor</a> -->
-</div>
-
 <article>
 	<img src="/assets/img/pic1.jpg" />
-	<h2>Speakers and Workshops</h2>
+	<h2>Speakers & Workshops</h2>
 	<div class="white-divider"><div></div></div>
 	<div class="details"><div>
 		October 22nd, 2022 &nbsp;&nbsp;&nbsp; 8am-5pm &nbsp;&nbsp;&nbsp; The McColl Center
@@ -74,3 +67,10 @@ active_tab: conference
 		<li><a href="#" class="orange-pill-btn">Buy Tickets</a></li>
 	</ul>
 </article>
+
+<div class="highlight-section3">
+    <h2>Sponsors</h2>
+    <div class="white-divider-mid"></div>
+    <p>Sponsorship opportunities coming soon.<br><a href="mailto:hodl@bitcoincharlotte.org">Contact us for details.</a></p>
+    <!-- <a href="/conference/sponsorships" class="orange-pill-btn">Sponsor</a> -->
+</div>
