@@ -9,7 +9,7 @@ active_tab: celebration
 <div class="highlight-section4">
     <p class="hodlween-font">
     You don't need permission to be your own bank
-	<span>and you don't need permission to party!</span>
+	<span>and you don't need permission to have fun!</span>
     </p>
     <br>
     <p>
@@ -25,35 +25,6 @@ active_tab: celebration
 	</div>
 </div>
 
-<article>
-	<img src="/assets/img/pic1.jpg" />
-	<h2>Speakers & Bitcoin 101 Workshops</h2>
-	<div class="white-divider"><div></div></div>
-	<div class="details"><div>
-		October 22nd, 2022 &nbsp;&nbsp;&nbsp; 8am-5pm &nbsp;&nbsp;&nbsp; <span>The McColl Center</span>
-	</div></div>
-	<p>Join us on Day 2 of HODLween for an educational day of Bitcoin only topics with speakers, panel discussions, debates, 101 workshops, the most toxic happy hour and MORE! This day will be a great event wherever you are on your Bitcoin journey! Topics will dive into why Bitcoin is so important and how it affects the entire world around us. Bitcoin 101 educational workshops will be available the entire day discussing how to buy bitcoin, security, financial freedom, and more. It will be a great place to network and ask any questions about Bitcoin.</p>
-	<p>Ticket includes all day access to talks, workshops, lunch, and happy hour.</p>
-	<ul class="buy-links">
-		<li><a href="/celebration/speakers-workshops-schedule" class="buy-link">Schedule & Speaker Details ></a></li>
-		<li><a href="/celebration/tickets" class="orange-pill-btn">Buy Tickets</a></li>
-	</ul>
-</article>
-
-
-<article>
-	<img src="/assets/img/pic1.jpg" />
-	<h2>HODLween Costume Party</h2>
-	<div class="white-divider"><div></div></div>
-	<div class="details"><div>
-		October 22nd, 2022 &nbsp;&nbsp;&nbsp; 8:30pm-1:30am &nbsp;&nbsp;&nbsp; <span>The Hamilton</span>
-	</div></div>
-	<p>Need description</p>
-	<ul class="buy-links">
-		<li><a href="/celebration/hodlween-costume-party" class="buy-link">Party Details ></a></li>
-		<li><a href="#" class="orange-pill-btn">Buy Tickets</a></li>
-	</ul>
-</article>
 
 <article>
 	<img src="/assets/img/pic1.jpg" />
@@ -63,12 +34,41 @@ active_tab: celebration
 		October 21st, 2022 &nbsp;&nbsp;&nbsp; 7pm-10pm &nbsp;&nbsp;&nbsp; <span>Lenny Boy Brewing</span>
 	</div></div>
 	<p>Join us on Night 1 of HODLween for a Beef Initiative Dinner and Pumpkin Carving Contest! Come enjoy beef made by a local rancher and connect with other bitcoiners. Be sure to BRING YOUR OWN PUMPKIN! Tools will be provided.</p>
-	<p>The Beef Initative is about providing market access to producers and consumers and anyone in that supply chain who understands and prioritizes the importance of food integrity and sound money in the pursuit of living healthier and happier lives.</p>
 	<ul class="buy-links">
 		<li><a href="/celebration/beef-initiative-dinner-pumpkin-carving" class="buy-link">Dinner Details ></a></li>
 		<li><a href="#" class="orange-pill-btn">Buy Tickets</a></li>
 	</ul>
 </article>
+
+<article>
+	<img src="/assets/img/pic1.jpg" />
+	<h2>Speakers & Bitcoin 101 Workshops</h2>
+	<div class="white-divider"><div></div></div>
+	<div class="details"><div>
+		October 22nd, 2022 &nbsp;&nbsp;&nbsp; 8am-5pm &nbsp;&nbsp;&nbsp; <span>The McColl Center</span>
+	</div></div>
+	<p>Join us on Day 2 of HODLween for an educational day of Bitcoin only topics with speakers, panel discussions, debates, 101 workshops, the most toxic happy hour and MORE! This day will be a great event wherever you are on your Bitcoin journey! Topics will dive into why Bitcoin is so important and how it affects the entire world around us. Bitcoin 101 educational workshops will be available the entire day discussing how to buy bitcoin, security, financial freedom, and more. It will be a great place to network and ask any questions about Bitcoin.</p>
+	<ul class="buy-links">
+		<li><a href="/celebration/speakers-workshops-schedule" class="buy-link">Schedule & Speaker Details ></a></li>
+		<li><a href="/celebration/tickets" class="orange-pill-btn">Buy Tickets</a></li>
+	</ul>
+</article>
+
+<article>
+	<img src="/assets/img/pic1.jpg" />
+	<h2>HODLween Costume Party</h2>
+	<div class="white-divider"><div></div></div>
+	<div class="details"><div>
+		October 22nd, 2022 &nbsp;&nbsp;&nbsp; 8pm-2am &nbsp;&nbsp;&nbsp; <span>The Hamilton</span>
+	</div></div>
+	<p>Join us on Day 2 of HODLween for ... </p>
+	<ul class="buy-links">
+		<li><a href="/celebration/hodlween-costume-party" class="buy-link">Party Details ></a></li>
+		<li><a href="/celebration/tickets" class="orange-pill-btn">Buy Tickets</a></li>
+	</ul>
+</article>
+
+
 
 <div class="highlight-section3">
     <h2>Sponsors</h2>
