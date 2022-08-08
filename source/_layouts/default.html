@@ -11,7 +11,6 @@
         {% endblock %}
         <link rel="stylesheet" href="{{ site.url }}/build/app.css">
         <!-- <link rel="shortcut icon" href="/favicon.ico" /> -->
-
         <!-- <link rel="apple-touch-startup-image" href="{{ site.url }}/build/2048x2048.png"> -->
         <meta name="mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-capable" content="yes">
@@ -39,14 +38,16 @@
         {% endblock %}
     </head>
     <body class="special-event d-flex flex-column h-100">
-        <!-- <nav class="navbar navbar-expand-md navbar-dark">
+        <nav class="navbar navbar-expand-md navbar-dark">
             <div class="collapse navbar-collapse" id="navbarCollapse">
-                {% set navigation_bar = [['', 'Home'], ['tickets', 'Tickets']] %}
+                {% set navigation_bar = [['', 'Home'], ['tickets', 'Tickets'], ['speakers-workshops-schedule', 'Schedule'], ['hodlween-costume-party', 'Party'], ['sponsors', 'Sponsors']] %}
                 {% block navigation %}
                 <ul class="navbar-nav mr-auto">
                     {% for item in navigation_bar %}
                     <li{% if page.active_tab == item[0] %} class="active"{% endif %}>
-                        <a class="nav-link" href="{{ site.url }}/{{item[0]}}">{{item[1]}}</a> 
+                        <div class="tri tri2"></div>
+                        <a class="nav-link" href="{{ site.url }}/{{item[0]}}">{{item[1]}}</a>
+                        <div class="tri"></div>
                     </li>
                     {% endfor %}
                 </ul>
@@ -55,26 +56,19 @@
             <a class="navbar-toggler menu-btn" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                 <div class="menu-text"><span>&#9776;</span></div>
             </a>
-        </nav> -->
+        </nav>
         <div id="wrapper">
-            <a href="/" id="hodlween-logo" class="party-padding"></a>
+            <a href="/" id="hodlween-logo"></a>
             <div class="header justify-content-center">
-                
-                <span class="headline party"><span>Charlotte's Sovereign</span><br>Halloween Costume Party</span>
-                <div class="white-divider-mid with-bg top"></div>
-                <div class="headline-bg">
-                    Yo Mama's Big Fat Booty Band<br>Costume Contest<span>&#9679;</span>DJ Ph&iacute;l G&uuml;d<span>&#9679;</span>Karaoke<span>&#9679;</span>Speakeasy<br>Cash Prizes<span>&#9679;</span>Fortune Teller<span>&#9679;</span>Performers
-                </div>
-                <div class="white-divider-mid with-bg bottom"></div>
-                <span class="headline2 party"><span>sat, oct 22nd, 8pm-2am</span><br>the hamilton</span>
-
+                <div id="scribble-celebration"></div>
+                <span class="headline">A Bitcoin Only Conference</span>
+                <div class="white-divider-mid"></div>
+                <span class="headline2">oct 21st - 22nd &nbsp;&nbsp; charlotte, nc</span>
             </div>
             <main role="main" class="container">
                 <div class="row justify-content-center">
                     <div class="col">
                         {% block content_wrapper %}{% block content %}{% endblock %}{% endblock %}
-                        
-                        <!-- <p class="highlight-section"><a href="/2022">Wait, wtf is HODL?</a></p> -->
                     </div>
                 </div> 
             </main>

@@ -1,8 +1,7 @@
 ---
-layout: 2022
+layout: default
 title: Sponsors
-path: 2022
-active_tab: 2022/sponsors
+active_tab: sponsors
 
 ---
 
