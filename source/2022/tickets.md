@@ -16,9 +16,10 @@ active_tab: 2022/tickets
 <div class="highlight-section2">
     <h2>HODLween Schedule</h2>
     <div class="white-divider-mid"></div>
-    <p><a href="/2022/tickets/#beef-initiative-dinner-pumpkin-carving">Fri, Oct 21st, 7p-11p - Beef Initiative Dinner & Pumpkin Carving</a></p>
-    <p><a href="/2022/tickets/#speakers-workshops-schedule">Sat, Oct 22nd, 8a-5p - Speakers & Bitcoin 101 Workshops</a></p>
-    <p><a href="/2022/tickets/#hodlween-costume-party">Sat, Oct 22nd, 8p-2a - HODLween Costume Party</a></p>
+    <p>Fri, Oct 21st<br><a href="/2022/tickets/#beef-initiative-dinner-pumpkin-carving">7p-11p: Beef Initiative Dinner & Pumpkin Carving</a></p>
+    <br>
+    <p>Sat, Oct 22nd<br><a href="/2022/tickets/#speakers-workshops-schedule">8a-5p: Speakers & Bitcoin 101 Workshops</a></p>
+    <p><a href="/2022/tickets/#hodlween-costume-party">8p-2a: HODLween Costume Party</a></p>
 </div>
 
 <article>
