@@ -1,7 +1,7 @@
 ---
-layout: celebration
+layout: 2022
 title: Jacob Parrish
 path: celebration/speaker
-active_tab: celebration/schedule
+active_tab: 2022/schedule
 
 ---

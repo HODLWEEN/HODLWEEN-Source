@@ -1,8 +1,8 @@
 ---
-layout: celebration
+layout: 2022
 title: About
 path: celebration
-active_tab: celebration/about
+active_tab: 2022/about
 
 ---
 
