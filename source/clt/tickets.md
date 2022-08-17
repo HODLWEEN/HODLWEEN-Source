@@ -5,7 +5,7 @@ active_tab: tickets
 
 ---
 
-<div class="highlight-section3">
+<div class="highlight-section3" data-component="ticker">
 	<div class="ticket-price-increase">
 	    <span id="ticket-price-increase-hdr">Ticket Price Increases in</span>
 	    <div id="countdown-ticker"></div>
