@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Beef Initiative Dinner and Pumpkin Carving
+active_tab: beef-initiative-dinner-pumpkin-carving
 
 ---
 
