@@ -24,7 +24,7 @@ active_tab: tickets
 <article>
 	<div class="color-image"><img src="/assets/img/pic3.jpg" /></div>
 	<h2>Full HODL Pass</h2>
-	<p><span class="price" id="fullhodl-price">$150.21</span></p>
+	<p><span class="price" id="fullhodl-price">$170.21</span></p>
 	<p><b>Full HODL Pass includes access to all HODLween events.</b> This includes Beef Initiative Dinner & Pumpkin Carving, Speakers & Bitcoin 101 Workshops, and VIP ticket to the HODLween Costume Party!</p>
 	<ul class="buy-links">
 		<li><a href="https://hodlween-full-hodl-pass.eventbrite.com" target="_blank" class="orange-pill-btn">Buy Passes</a></li>
@@ -40,7 +40,7 @@ active_tab: tickets
 	<div class="details"><div>
 		October 21st, 2022 &nbsp;&nbsp;&nbsp; 7pm-10pm &nbsp;&nbsp;&nbsp; <span>Lenny Boy Brewing</span>
 	</div></div>
-	<p><span class="price" id="meatmeal-price">$40.21</span></p>
+	<p><span class="price" id="meatmeal-price">$50.21</span></p>
 	<p>Join us on night 1 of HODLween for a Beef Initiative dinner and pumpkin carving contest! Come enjoy beef raised by local ranchers and connect with other bitcoiners.</p>
 	<ul class="buy-links">
 		<li><a href="https://beef-initiative-dinner-pumpkin-carving.eventbrite.com" target="_blank" class="orange-pill-btn">Buy Tickets</a></li>
@@ -56,7 +56,7 @@ active_tab: tickets
 	<div class="details"><div>
 		October 22nd, 2022 &nbsp;&nbsp;&nbsp; 8am-4:30pm &nbsp;&nbsp;&nbsp; <span>The McColl Center</span>
 	</div></div>
-	<p><span class="price" id="conf-price">$100.21</span></p>
+	<p><span class="price" id="conf-price">$120.21</span></p>
 	<p>Join us on day 2 of HODLween for an educational day of Bitcoin only topics with speakers, panel discussions, debates, 101 workshops, the most toxic happy hour and MORE! This day will be a great event wherever you are on your Bitcoin journey!</p>
 	<ul class="buy-links">
 		<li><a href="https://speakers-workshops-schedule.eventbrite.com" target="_blank" class="orange-pill-btn">Buy Tickets</a></li>
@@ -72,7 +72,7 @@ active_tab: tickets
 	<div class="details"><div>
 		October 22nd, 2022 &nbsp;&nbsp;&nbsp; 8pm-2am &nbsp;&nbsp;&nbsp; <span>The Hamilton</span>
 	</div></div>
-	<p><span class="price"><i>GA:</i> <span id="party-price">$60.21</span> &nbsp; <i>VIP:</i> <span id="partyvip-price">$90.21</span></span></p>
+	<p><span class="price"><i>GA:</i> <span id="party-price">$70.21</span> &nbsp; <i>VIP:</i> <span id="partyvip-price">$100.21</span></span></p>
 	<p>Join us on night 2 for an epic Halloween costume party! Immerse yourself in a night of thrills with live music, mutliple DJs, karaoke, fortune teller, hidden cash prizes, performers, VIP open bar and $500 cash prize costume contest!</p>
 	<p>VIP ticket includes early admission at 8PM and OPEN BAR from 8PM-9PM.<br><a href="https://checkout.opennode.com/p/6c93bcc4-58f6-4980-bca9-4b9f8ae1163f" target="_blank" class="buy-link">Pay w/ Bitcoin for 10% discount ></a></p>
 	<p>GA ticket doors are 9PM.<br><a href="https://checkout.opennode.com/p/60879854-9040-42dc-8922-a2842af178cc" target="_blank" class="buy-link">Pay w/ Bitcoin for 10% discount ></a></p>
