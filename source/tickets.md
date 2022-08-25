@@ -25,7 +25,7 @@ active_tab: tickets
 	<div class="color-image"><img src="/assets/img/pic3.jpg" /></div>
 	<h2>Full HODL Pass</h2>
 	<p><span class="price" id="fullhodl-price">$170.21</span></p>
-	<p><b>Full HODL Pass includes access to all HODLween events.</b> This includes Beef Initiative Dinner & Pumpkin Carving, Speakers & Bitcoin 101 Workshops, and VIP ticket to the HODLween Costume Party!</p>
+	<p><b>Full HODL Pass includes access to all HODLween events.</b> This includes Beef Initiative Dinner & Pumpkin Carving, Speakers & Bitcoin Workshops, and VIP ticket to the HODLween Costume Party!</p>
 	<ul class="buy-links">
 		<li><a href="https://hodlween-full-hodl-pass.eventbrite.com" target="_blank" class="orange-pill-btn">Buy Passes</a></li>
 		<li><a href="https://checkout.opennode.com/p/25ed816e-d5ad-4597-8e66-6c1445310157" target="_blank" class="buy-link">Pay w/ Bitcoin for 10% discount ></a></li>
@@ -57,7 +57,7 @@ active_tab: tickets
 		October 22nd, 2022 &nbsp;&nbsp;&nbsp; 8am-4:30pm &nbsp;&nbsp;&nbsp; <span>The McColl Center</span>
 	</div></div>
 	<p><span class="price" id="conf-price">$120.21</span></p>
-	<p>Join us on day 2 of HODLween for an educational day of Bitcoin only topics with speakers, panel discussions, debates, 101 workshops, the most toxic happy hour and MORE! This day will be a great event wherever you are on your Bitcoin journey!</p>
+	<p>Join us on day 2 of HODLween for an educational day of Bitcoin only topics with speakers, panel discussions, debates, workshops, the most toxic happy hour and MORE! This day will be a great event wherever you are on your Bitcoin journey!</p>
 	<ul class="buy-links">
 		<li><a href="https://speakers-workshops-schedule.eventbrite.com" target="_blank" class="orange-pill-btn">Buy Tickets</a></li>
 		<li><a href="https://checkout.opennode.com/p/8d732314-091b-4672-a718-7bda5a06b1b0" target="_blank" class="buy-link">Pay w/ Bitcoin for 10% discount ></a></li>
