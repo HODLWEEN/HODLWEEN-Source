@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Workshop - Get a Wallet
+title: Workshop - Get Bitcoin
 active_tab: schedule
 
 ---

@@ -27,9 +27,12 @@ $purple: #230444; //gradient
 $orange: #eb7e6f; //links
 $purple-light: #a78fa4;
 
-$table-color1: #1d1027;
-$table-color2: #22122e;
-$table-color3: #1c122e;
+$table-color1: #2f1a40;
+$table-color2: #372359;
+$table-color3: #4d2359;
+
+$table-color4: #1d1027;
+$table-color5: #22122e;
 
 html {
   scroll-behavior: smooth;
@@ -527,6 +530,7 @@ article.center {
   }
 }
 
+
 .table {
   border-collapse: separate;
   &.table-dark {
@@ -541,8 +545,12 @@ article.center {
     vertical-align: middle;
   }
   thead {
+    font: $hodlween;
+    font-size: 36px;
     th {
       background-color: $table-color1;
+      vertical-align: middle;
+      font-weight: lighter;
     }
     th:nth-child(2) {
       background-color: $table-color2;
@@ -554,7 +562,7 @@ article.center {
     }
   }
   tbody {
-    tr:nth-child(1), tr:nth-child(6), tr:nth-child(10), tr:nth-child(14) {
+    tr:nth-child(1), tr:nth-child(6), tr:nth-child(9), tr:nth-child(14) {
       background-color: $table-color1;
     }
     tr:nth-child(2), tr:nth-child(3), tr:nth-child(15), tr:nth-child(16) {
@@ -564,9 +572,8 @@ article.center {
     tr:nth-child(5),
     tr:nth-child(7),
     tr:nth-child(8),
-    tr:nth-child(9),
+    tr:nth-child(10),
     tr:nth-child(11),
-    tr:nth-child(12),
     tr:nth-child(13) {
       td:nth-child(2) {
         background-color: $table-color2;
@@ -574,6 +581,9 @@ article.center {
       td:nth-child(3) {
         background-color: $table-color3;
       }
+    }
+    tr:nth-child(12) td:nth-child(2) {
+      background-color: $table-color3;
     }
     tr th {
       background-color: $table-color1;
@@ -583,7 +593,19 @@ article.center {
     }
   }
 }
-
+.table-dark.table-hover tbody tr:hover {
+  background-color: $table-color1;
+}
+.table.basic {
+  tbody {
+    tr th {
+      width: 20%;
+    } 
+    tr td {
+      background-color: $table-color2;
+    }
+  }
+}
 
 #rabbit {
   fill: $light;
@@ -628,12 +650,12 @@ a#follow-us {
         position: relative;
         z-index: 1;
         margin-bottom: 1.5rem;
-        background-color: $table-color1;
+        background-color: $table-color4;
         &:last-child {
             margin-bottom: 0;
         }
         .card-header {
-            background-color: $table-color2;
+            background-color: $table-color5;
             padding: 0;
             // border-bottom-color: #ebebeb;
             h6 {
@@ -973,6 +995,12 @@ footer .container {
       p {
         text-align: justify;
         text-align-last: center;
+      }
+    }
+    .table {
+      thead {
+        font: $sans-serif;
+        font-size: inherit;
       }
     }
     .faq-accordian .card .card-header{

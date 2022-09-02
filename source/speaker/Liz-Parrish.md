@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Liz Parrish
-active_tab: /schedule
+active_tab: speakers
 
 ---
 

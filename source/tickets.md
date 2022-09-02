@@ -41,7 +41,7 @@ active_tab: tickets
 		October 21st, 2022 &nbsp;&nbsp;&nbsp; 7pm-10pm &nbsp;&nbsp;&nbsp; <span>Lenny Boy Brewing</span>
 	</div></div>
 	<p><span class="price" id="meatmeal-price">$50.21</span></p>
-	<p>Join us on night 1 of HODLween for a Beef Initiative dinner and pumpkin carving contest! Come enjoy beef raised by local ranchers and connect with other bitcoiners.</p>
+	<p>Join us on night one of HODLween for a Beef Initiative dinner and pumpkin carving contest! Come enjoy beef raised by local ranchers and connect with other bitcoiners.</p>
 	<ul class="buy-links">
 		<li><a href="https://beef-initiative-dinner-pumpkin-carving.eventbrite.com" target="_blank" class="orange-pill-btn">Buy Tickets</a></li>
 		<li><a href="https://checkout.opennode.com/p/fa3d55e4-24d0-4706-a29e-6f7499be69e6" target="_blank" class="buy-link">Pay w/ Bitcoin for 10% discount ></a></li>
@@ -54,10 +54,10 @@ active_tab: tickets
 	<h2>Speakers & Bitcoin 101 Workshops</h2>
 	<div class="white-divider"><div></div></div>
 	<div class="details"><div>
-		October 22nd, 2022 &nbsp;&nbsp;&nbsp; 8am-4:30pm &nbsp;&nbsp;&nbsp; <span>The McColl Center</span>
+		October 22nd, 2022 &nbsp;&nbsp;&nbsp; 9am-4:30pm &nbsp;&nbsp;&nbsp; <span>The McColl Center</span>
 	</div></div>
 	<p><span class="price" id="conf-price">$120.21</span></p>
-	<p>Join us on day 2 of HODLween for an educational day of Bitcoin only topics with speakers, panel discussions, debates, workshops, the most toxic happy hour and MORE! This day will be a great event wherever you are on your Bitcoin journey!</p>
+	<p>Join us day two of HODLween for an educational day of Bitcoin only topics with speakers, panel discussions, debates, and workshops! This day will be a great event wherever you are on your Bitcoin journey!</p>
 	<ul class="buy-links">
 		<li><a href="https://speakers-workshops-schedule.eventbrite.com" target="_blank" class="orange-pill-btn">Buy Tickets</a></li>
 		<li><a href="https://checkout.opennode.com/p/8d732314-091b-4672-a718-7bda5a06b1b0" target="_blank" class="buy-link">Pay w/ Bitcoin for 10% discount ></a></li>
@@ -65,7 +65,7 @@ active_tab: tickets
 </article>
 
 <article>
-	<div class="color-image"><img src="/assets/img/pic1.jpg" /></div>
+	<div class="color-image"><img src="/assets/img/pic13.jpg" /></div>
 	<a id="hodlween-costume-party" />
 	<h2>HODLween Costume Party</h2>
 	<div class="white-divider"><div></div></div>
@@ -73,9 +73,9 @@ active_tab: tickets
 		October 22nd, 2022 &nbsp;&nbsp;&nbsp; 8pm-2am &nbsp;&nbsp;&nbsp; <span>The Hamilton</span>
 	</div></div>
 	<p><span class="price"><i>GA:</i> <span id="party-price">$70.21</span> &nbsp; <i>VIP:</i> <span id="partyvip-price">$100.21</span></span></p>
-	<p>Join us on night 2 for an epic Halloween costume party! Immerse yourself in a night of thrills with live music, mutliple DJs, karaoke, fortune teller, hidden cash prizes, performers, VIP open bar and $500 cash prize costume contest!</p>
-	<p>VIP ticket includes early admission at 8PM and OPEN BAR from 8PM-9PM.<br><a href="https://checkout.opennode.com/p/6c93bcc4-58f6-4980-bca9-4b9f8ae1163f" target="_blank" class="buy-link">Pay w/ Bitcoin for 10% discount ></a></p>
-	<p>GA ticket doors are 9PM.<br><a href="https://checkout.opennode.com/p/60879854-9040-42dc-8922-a2842af178cc" target="_blank" class="buy-link">Pay w/ Bitcoin for 10% discount ></a></p>
+	<p>Join us on night two for an epic Halloween costume party! Immerse yourself in a night of thrills with live music, DJs, karaoke room, fortune teller, secrect speakeasy, hidden bitcoin, performers, and the "Best Satoshi Nakamoto" costume contest!</p>
+	<p>VIP ticket includes early admission at 8pm and OPEN BAR from 8pm-9pm.<br><a href="https://checkout.opennode.com/p/6c93bcc4-58f6-4980-bca9-4b9f8ae1163f" target="_blank" class="buy-link">Pay w/ Bitcoin for 10% discount ></a></p>
+	<p>GA ticket entry is at 9pm.<br><a href="https://checkout.opennode.com/p/60879854-9040-42dc-8922-a2842af178cc" target="_blank" class="buy-link">Pay w/ Bitcoin for 10% discount ></a></p>
 	<ul class="buy-links">
 		<li><a href="https://hodlween-costume-party.eventbrite.com" target="_blank" class="orange-pill-btn">Buy Tickets</a></li>
 	</ul>
@@ -84,6 +84,5 @@ active_tab: tickets
 <div class="highlight-section3">
     <h2>Sponsors</h2>
     <div class="white-divider-mid"></div>
-    <p>Looking for sponsorship opportunities?<br><a href="mailto:hodl@bitcoincharlotte.org">Contact us for details.</a></p>
-    <!-- <a href="//sponsorships" class="orange-pill-btn">Sponsor</a> -->
+    <p>Sponsors will be listed soon!<br><a href="/sponsorship">Check out our sponsorship opportunities here!</a></p>
 </div>

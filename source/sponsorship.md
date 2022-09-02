@@ -67,12 +67,12 @@ active_tab: sponsorship
     <p>(Limited to 1) Sponsorship includes (1) Full HODL Pass and logo next to HODLween on wristbands. Will be worn at all events. Important so we don't lose plebs.<br><a href="mailto:hodl@bitcoincharlotte.org">Contact us to sponsor!</a></p>
 </article>
 
-<article class="sponsor">
+<!-- <article class="sponsor">
     <div class="color-image sponsor-icon"><img src="/assets/img/hodlween-icon-bag.png" /></div>
     <a id="hodlween-bag" />
-    <h3>Bag Swagg Sponsor <span class="orange">$75</span></h3>
-    <p>(Unlimited) Put yo bag swag in the attendee bags! Stickers, advertisements, toys, whatever you want as long as it's Bitcoin ONLY! Contact us for address to send to. <br><a href="mailto:hodl@bitcoincharlotte.org">Contact us to sponsor!</a></p>
-</article>
+    <h3>Bag Sponsor <span class="orange">$75</span></h3>
+    <p>(Limited to 1) Put yo bag swag in the attendee bags! Stickers, advertisements, toys, whatever you want as long as it's Bitcoin ONLY! Contact us for address to send to. <br><a href="mailto:hodl@bitcoincharlotte.org">Contact us to sponsor!</a></p>
+</article> -->
 
 <article class="sponsor">
     <div class="color-image sponsor-icon"><img src="/assets/img/hodlween-icon-faucet.png" /></div>

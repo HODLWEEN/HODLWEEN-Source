@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Jacob Parrish
-active_tab: schedule
+active_tab: speakers
 
 ---

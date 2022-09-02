@@ -11,100 +11,12 @@ active_tab: speakers-workshops-schedule
 	<h2>Speakers & Bitcoin Workshops</h2>
 	<div class="white-divider-mid"></div>
 	<div class="details"><div>
-		October 22nd, 2022 &nbsp;&nbsp;&nbsp; 8am-4:30pm &nbsp;&nbsp;&nbsp; <span>The McColl Center</span>
+		October 22nd, 2022 &nbsp;&nbsp;&nbsp; 8:30am-4:30pm &nbsp;&nbsp;&nbsp; <span>The McColl Center</span>
 	</div></div>
 	<p>Join us on Day 2 of HODLween for an educational day of Bitcoin only topics with speakers, panel discussions, debates, workshops, the most toxic happy hour and MORE! This day will be a great event wherever you are on your Bitcoin journey! Topics will dive into why Bitcoin is so important and how it affects the entire world around us. Bitcoin educational workshops will be available the entire day discussing how to buy bitcoin, set up a wallet, self custody, node setup, and using bitcoin privately. It will be a great place to network and ask any questions about Bitcoin.</p>
 </article>
 
-<div class="highlight-section4">
-<h3>Schedule</h3>
-<div class="white-divider-mid"></div>
-<div class="table-responsive">
-	<table class="table align-middle table-bordered table-dark table-hover">
-	  	<thead>
-		    <tr>
-	          	<th scope="col">The McColl Center</th>
-	          	<th scope="col">Speakers - Dickson Gallery</th>
-	          	<th scope="col">Workshops - Levine Creative Hub</th>
-	        </tr>
-	  	</thead>
-	  	<tbody class="align-middle">
-		    <tr>
-	          	<th scope="row">8:00a</th>
-	          	<td colspan="2">Registration & Light Breakfast</td>
-	        </tr>
-		    <tr>
-	          	<th scope="row">8:30a</th>
-	          	<td colspan="2">Bitcoin Charlotte Welcome</td>
-	        </tr>
-		    <tr>
-		      	<th scope="row">8:40a-9:10a</th>
-		      	<td colspan="2">Opening Speaker TBD</td>
-		    </tr>
-		    <tr>
-		      	<th scope="row">9:15a-9:45a</th>
-		      	<td>Title TBD<br><span>Speaker TBD</span></td>
-		      	<td>Get a Wallet<br><span>Speaker TBD</span></td>
-		    </tr>
-		    <tr>
-		      	<th scope="row">9:50a-10:20a</th>
-		      	<td>Title TBD<br><span>Speaker TBD</span></td>
-		      	<td>Buy Bitcoin<br><span>Speaker TBD</span></td>
-		    </tr>
-		    <tr>
-		      	<th scope="row">10:20a-10:35a</th>
-		      	<td colspan="2">Break</td>
-		    </tr>
-		    <tr>
-		      	<th scope="row">10:40a-11:10a</th>
-		      	<td>Title TBD<br><span>Speaker TBD</span></td>
-		      	<td>Send & Receive Bitcoin<br><span>Speaker TBD</span></td>
-		    </tr>
-		    <tr>
-		      	<th scope="row">11:15a-11:45a</th>
-		      	<td>Title TBD<br><span>Speaker TBD</span></td>
-		      	<td rowspan="2">Secure Your Wallet / Self Custody<br><span>Speaker TBD</span></td>
-		    </tr>
-		    <tr>
-		      	<th scope="row">11:50a-12:20p</th>
-		      	<td>Title TBD<br><span>Speaker TBD</span></td>
-		      	<!-- <td></td> -->
-		    </tr>
-		    <tr>
-		      	<th scope="row">12:20p-1:30p</th>
-		      	<td colspan="2">Lunch</td>
-		    </tr>
-		    <tr>
-		      	<th scope="row">1:35p-2:05p</th>
-		      	<td>Title TBD<br><span>Speaker TBD</span></td>
-		      	<td rowspan="2">Setup a Node<br><span>Speaker TBD</span></td>
-		    </tr>
-		    <tr>
-		      	<th scope="row">2:10p-2:40p</th>
-		      	<td>Title TBD<br><span>Speaker TBD</span></td>
-		      	<!-- <td></td> -->
-		    </tr>
-		    <tr>
-		      	<th scope="row">2:45p-3:15p</th>
-		      	<td>Title TBD<br><span>Speaker TBD</span></td>
-		      	<td class="border-top-0">Using Bitcoin Privately<br><span>Speaker TBD</span></td>
-		    </tr>
-		    <tr>
-		      	<th scope="row">3:15p-3:30p</th>
-		      	<td colspan="2">Break + Drinks</td>
-		    </tr>
-		    <tr>
-		      	<th scope="row">3:30p-4:30p</th>
-		      	<td colspan="2">Interactive Happy Hour<br><span>Speakers TBD</span></td>
-		    </tr>
-		    <tr>
-		      	<th scope="row">4:30p</th>
-		      	<td colspan="2">Closing Remarks from Bitcoin Charlotte</td>
-		    </tr>
-	  	</tbody>
-	</table>
-</div>
-</div>
+
 
 <div class="highlight-section4">
 <h3>Speakers</h3>
