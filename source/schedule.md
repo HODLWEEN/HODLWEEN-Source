@@ -82,7 +82,10 @@ active_tab: schedule
             </tr>
             <tr>
                 <th scope="row">9:10a-9:55a</th>
-                <td colspan="2">Opening Speaker TBD</td>
+                <td colspan="2" class="commit">
+                    <b>Opening Speaker</b><br>
+                    <span>Ben Perrin - BTC Sessions</span>
+                </td>
             </tr>
             <tr>
                 <th scope="row">10:00a-10:30a</th>
@@ -92,13 +95,13 @@ active_tab: schedule
                 </td>
                 <td rowspan="2" class="commit">
                     <b>Get Bitcoin - Buy, Send & Receive</b><br>
-                    <span>Rodd Workman & Johnny Delgado</span>
+                    <span>Rodd Workman & Jhonny Delgado</span>
                 </td>
             </tr>
             <tr>
                 <th scope="row">10:35a-11:05a</th>
                 <td class="commit">
-                    <b>Biton Mining & Electric Grid</b><br>
+                    <b>Bitcoin Mining & Electric Grid</b><br>
                     <span>Justin Orkney</span>
                 </td>
                 <!-- <td></td> -->
@@ -170,7 +173,10 @@ active_tab: schedule
             </tr>
             <tr>
                 <th scope="row">3:30p-4:30p</th>
-                <td colspan="2">Interactive Happy Hour<br><span>Speakers TBD</span></td>
+                <td colspan="2" class="commit">
+                    <b>HODLween Keynote!</b><br>
+                    <span>Guy Swann & Jeff Swann</span>
+                </td>
             </tr>
             <tr>
                 <th scope="row">4:30p</th>
