@@ -174,8 +174,8 @@ active_tab: schedule
             <tr>
                 <th scope="row">3:30p-4:30p</th>
                 <td colspan="2" class="commit">
-                    <b>HODLween Keynote!</b><br>
-                    <span>Guy Swann & Jeff Swann</span>
+                    <b>HODLween Keynote and Happy Hour!</b><br>
+                    <span>Speaker TBD</span>
                 </td>
             </tr>
             <tr>
