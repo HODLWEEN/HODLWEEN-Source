@@ -1,7 +1,6 @@
 ---
 layout: default
 title: HODLWEEN Costume Party
-active_tab: hodlween-costume-party
 
 ---
 
