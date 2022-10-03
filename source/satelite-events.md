@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Sponsors
-active_tab: sponsors
+title: Satelite Events
+active_tab: satelite
 
 ---
 
 <div class="highlight-section2">
-    <h2>Sponsors</h2>
+    <h2>Satelite Events</h2>
     <div class="white-divider-mid"></div>
     <div class="container sponsors">
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
