@@ -90,8 +90,8 @@ active_tab: schedule
             <tr>
                 <th scope="row">10:00a-10:30a</th>
                 <td class="commit">
-                    <b>Dan Finley</b><br>
-                    <span>What is Inflation</span>
+                    <b>What is Inflation</b><br>
+                    <span>Dan Finley</span>
                 </td>
                 <td rowspan="2" class="commit">
                     <b>Get Bitcoin - Buy, Send & Receive</b><br>
@@ -123,9 +123,9 @@ active_tab: schedule
             </tr>
             <tr>
                 <th scope="row">11:55a-12:25a</th>
-                <td>
-                    Lamar Wilson & TBD Speaker<br>
-                    <span>Why HODL</span>
+                <td class="commit">
+                    <b>Why HODL</b><br>
+                    <span>Lamar Wilson</span>
                 </td>
                 <!-- <td></td> -->
             </tr>
@@ -135,9 +135,9 @@ active_tab: schedule
             </tr>
             <tr>
                 <th scope="row">1:20p-1:50p</th>
-                <td>
-                    Bitcoin vs Bankers<br>
-                    <span>Scott Marmoll + TBD Bankers</span>
+                <td class="commit">
+                    <b>Bitcoin vs. Fiat</b><br>
+                    <span>Scott Marmoll, Jack Matthews, Matt Menne</span>
                 </td>
                 <td rowspan="2" class="commit">
                     <b>Run Bitcoin - Bitcoin Nodes & The Lightning Network</b><br>
@@ -161,8 +161,8 @@ active_tab: schedule
             </tr>
             <tr>
                 <th scope="row">2:30p-3:00p</th>
-                <td>
-                    Title TBD<br>
+                <td class="commit">
+                    <b>Bitcoin & the Revolution</b><br>
                     <span>Guy & Jeff Swan</span>
                 </td>
                 <!-- <td></td> -->
@@ -204,6 +204,10 @@ active_tab: schedule
             <tr>
                 <th scope="row">8:00p</th>
                 <td>VIP Doors Open</td>
+            </tr>
+            <tr>
+                <th scope="row">8:30p</th>
+                <td>DJ Skittles</td>
             </tr>
             <tr>
                 <th scope="row">9:00p</th>

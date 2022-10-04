@@ -118,7 +118,7 @@ active_tab: sponsorship
 <article class="sponsor">
     <div class="color-image sponsor-icon"><img src="/assets/img/hodlween-icon-anon.png" /></div>
     <a id="hodlween-anon" />
-    <h3>Pleb Army Supporter. <span class="orange">Donation Based!</span></h3>
+    <h3>Pleb Army Supporter <span class="orange">Donation Based!</span></h3>
     <p>Plebs who want to support us and have their name listed here or support the cause anonymously like Satoshi Nakamoto.<br><a href="mailto:hodl@bitcoincharlotte.org">Contact us to sponsor!</a></p>
 </article>
 
