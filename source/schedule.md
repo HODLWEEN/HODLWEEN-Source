@@ -118,7 +118,7 @@ active_tab: schedule
                 </td>
                 <td rowspan="2" class="commit">
                     <b>HODL Bitcoin - Secure Your Wallet & Self Custody</b><br>
-                    <span>Prime Number & John Tinkelenberg</span>
+                    <span>John Tinkelenberg</span>
                 </td>
             </tr>
             <tr>
@@ -162,7 +162,7 @@ active_tab: schedule
             <tr>
                 <th scope="row">2:30p-3:00p</th>
                 <td class="commit">
-                    <b>Bitcoin & the Revolution</b><br>
+                    <b>Bitcoin & The Revolution</b><br>
                     <span>Guy & Jeff Swan</span>
                 </td>
                 <!-- <td></td> -->

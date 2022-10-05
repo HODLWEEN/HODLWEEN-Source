@@ -46,7 +46,7 @@ active_tab: sponsorship
     <p>(Unlimited) Sponsorship includes recognition on website, social media, and schedule program in plankton size.<br><a href="mailto:hodl@bitcoincharlotte.org">Contact us to sponsor!</a></p>
     <p>
         &#8226; <a href="https://www.joincrowdhealth.com/bitcoin" target="_blank">CrowdHealth</a><br>
-        &#8226; <a href="https://foundationdevices.com/" target="_blank">Foundation</a>
+        &#8226; <a href="https://foundationdevices.com/" target="_blank">Foundation</a><br>
         &#8226; <a href="https://upgradeya.com/" target="_blank">UpgradeYa</a><br>
     </p>
 </article>

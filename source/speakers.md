@@ -45,6 +45,13 @@ active_tab: speakers
             </div>
         </div>
         <div class="col">
+            <a href="#"><img src="/assets/img/speakers/Justin-Orkney.jpg" alt="Justin Orkney" title="Justin Orkney"/></a>
+            <div class="pic-caption">
+                <span><a href="#">Justin Orkney</a></span><br>
+                <span>Electric Utility Professional</span><br>
+            </div>
+        </div>
+        <div class="col">
             <a href="#"><img src="/assets/img/speakers/HODL-Tarantula.jpg" alt="HODL Tarantula" title="HODL Tarantula"/></a>
             <div class="pic-caption">
                 <span><a href="#">HODL Tarantula</a></span><br>
@@ -56,13 +63,6 @@ active_tab: speakers
             <div class="pic-caption">
                 <span><a href="#">Andy LeRoy</a></span><br>
                 <span>Founder, Exponential Layers</span><br>
-            </div>
-        </div>
-        <div class="col">
-            <a href="#"><img src="/assets/img/speakers/Michael-Marion.jpg" alt="Michael Marion" title="Michael Marion"/></a>
-            <div class="pic-caption">
-                <span><a href="#">Michael Marion</a></span><br>
-                <span>Bitcoiner<br>MC, HODLween</span><br>
             </div>
         </div>
         <div class="col">
@@ -79,13 +79,13 @@ active_tab: speakers
                 <span></span><br>
             </div>
         </div> -->
-        <!-- <div class="col">
+        <div class="col">
             <a href="#"><img src="/assets/img/speakers/Jeff-Swann.jpg" alt="Jeff Swann" title="Jeff Swann"/></a>
             <div class="pic-caption">
                 <span><a href="#">Jeff Swann</a></span><br>
-                <span></span><br>
+                <span>Bitcoin Agorist</span>
             </div>
-        </div> -->
+        </div>
         <!-- <div class="col">
             <a href="#"><img src="/assets/img/speakers/Rodd-Workman.jpg" alt="Rodd Workman" title="Rodd Workman"/></a>
             <div class="pic-caption">
@@ -93,20 +93,20 @@ active_tab: speakers
                 <span></span><br>
             </div>
         </div> -->
-        <!-- <div class="col">
-            <a href="#"><img src="/assets/img/speakers/PrimeNumber.jpg" alt="PrimeNumber" title="PrimeNumber"/></a>
+        <div class="col">
+            <a href="#"><img src="/assets/img/speakers/Jhonny-Delgado.jpg" alt="Jhonny Delgado" title="Jhonny Delgado"/></a>
             <div class="pic-caption">
-                <span><a href="#">PrimeNumber</a></span><br>
-                <span></span><br>
+                <span><a href="#">Jhonny Delgado</a></span><br>
+                <span>Dual American Citizen<br>Bitcoin Charlotte</span><br>
             </div>
-        </div> -->
-        <!-- <div class="col">
+        </div>
+        <div class="col">
             <a href="#"><img src="/assets/img/speakers/Dan-Finley.jpg" alt="Dan Finley" title="Dan Finley"/></a>
             <div class="pic-caption">
                 <span><a href="#">Dan Finley</a></span><br>
-                <span></span><br>
+                <span>Orange Pill Pusher<br>Founder, Bitcoin Chattanooga</span><br>
             </div>
-        </div> -->
+        </div>
         <!-- <div class="col">
             <a href="#"><img src="/assets/img/speakers/John-Tinkelenberg.jpg" alt="John Tinkelenberg" title="John Tinkelenberg"/></a>
             <div class="pic-caption">
@@ -143,43 +143,21 @@ active_tab: speakers
             </div>
         </div>
         <div class="col">
-            <a href="#"><img src="/assets/img/speakers/Justin-Orkney.jpg" alt="Justin Orkney" title="Justin Orkney"/></a>
-            <div class="pic-caption">
-                <span><a href="#">Justin Orkney</a></span><br>
-                <span>Electric Utility Professional</span><br>
-            </div>
-        </div>
-        <div class="col">
             <a href="#"><img src="/assets/img/speakers/Shawn-Flowers.jpg" alt="Shawn Flowers" title="Shawn Flowers"/></a>
             <div class="pic-caption">
                 <span><a href="#">Shawn Flowers</a></span><br>
                 <span>Freedom Maximalist<br>Bull Bitcoin Missionary</span><br>
             </div>
         </div>
-        <div class="col">
-            <a href="#"><img src="/assets/img/speakers/Jhonny-Delgado.jpg" alt="Jhonny Delgado" title="Jhonny Delgado"/></a>
-            <div class="pic-caption">
-                <span><a href="#">Jhonny Delgado</a></span><br>
-                <span>Dual American Citizen<br>Bitcoin Charlotte</span><br>
-            </div>
-        </div>
-
-        
     </div>
 </div>
 </div>
 
 <div class="highlight-section2">
-<h3>Musicians, Chefs & Hosts</h3>
+<h3>Artists, Chefs, MCs & Hosts</h3>
 <div class="white-divider-mid"></div>
 <div class="container speakers">
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-        <div class="col">
-            <a href="#"><img src="/assets/img/speakers/phil-gud-jordan-rhame.jpg" alt="Ph&iacute;l G&uuml;d" title="Ph&iacute;l G&uuml;d"/></a>
-            <div class="pic-caption">
-                <span><a href="#">Ph&iacute;l G&uuml;d</a></span>
-            </div>
-        </div>
         <div class="col">
             <a href="#"><img src="/assets/img/speakers/texas-slim.jpg" alt="Texas Slim" title="Texas Slim"/></a>
             <div class="pic-caption">
@@ -195,6 +173,12 @@ active_tab: speakers
             </div>
         </div>
         <div class="col">
+            <a href="#"><img src="/assets/img/speakers/phil-gud-jordan-rhame.jpg" alt="Ph&iacute;l G&uuml;d" title="Ph&iacute;l G&uuml;d"/></a>
+            <div class="pic-caption">
+                <span><a href="#">Ph&iacute;l G&uuml;d</a></span>
+            </div>
+        </div>
+        <div class="col">
             <a href="#"><img src="/assets/img/speakers/dj-skittles.jpg" alt="DJ Skittles" title="DJ Skittles"/></a>
             <div class="pic-caption">
                 <span><a href="#">DJ Skittles</a></span>
@@ -204,6 +188,20 @@ active_tab: speakers
             <a href="#"><img src="/assets/img/speakers/ymbfbb.jpg" alt="Yo Mama's Big Fat Booty Band" title="Yo Mama's Big Fat Booty Band"/></a>
             <div class="pic-caption">
                 <span><a href="#">Yo Mama's Big Fat Booty Band</a></span>
+            </div>
+        </div>
+        <div class="col">
+            <a href="#"><img src="/assets/img/speakers/Pamela-Mela-Borawski.jpg" alt="Pamela Mela Borawski" title="Pamela Mela Borawski"/></a>
+            <div class="pic-caption">
+                <span><a href="#">Pamela "Mela" Borawski</a></span><br>
+                <span>3 Rays of Light</span><br>
+            </div>
+        </div>
+        <div class="col">
+            <a href="#"><img src="/assets/img/speakers/Michael-Marion.jpg" alt="Michael Marion" title="Michael Marion"/></a>
+            <div class="pic-caption">
+                <span><a href="#">Michael Marion</a></span><br>
+                <span>HODLween MC<br>Bitcoiner</span><br>
             </div>
         </div>
         <div class="col">

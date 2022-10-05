@@ -11,7 +11,7 @@ active_tab: pleb-army-supporters
     <div class="white-divider-mid"></div>
     <p>
         <a href="https://twitter.com/babeswhobitcoin" target="_blank">Liz</a> 3,975,678 sats + $500<br>
-        <a href="wtfhappenedin1971.com" target="_blank">Satoshi</a> 768,351 sats<br> 
+        <a href="https://wtfhappenedin1971.com" target="_blank">Satoshi</a> 768,351 sats<br> 
         Mike 630,453 sats<br> 
         <a href="https://www.exponentiallayers.com/" target="_blank">Andy</a> 566,360 sats<br>
         <a href="https://bitcoin101pro.com/" target="_blank">Shawn</a> 151,639 sats<br> 
