@@ -234,3 +234,8 @@ active_tab: schedule
     </table>
 </div>
 </div>
+
+<div class="highlight-section2">
+    <h2>Take the Orange Pill</h2>
+    <a href="/tickets" target="_blank" class="orange-pill-btn">Buy Tickets</a>
+</div>
