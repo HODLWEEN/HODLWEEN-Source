@@ -27,7 +27,7 @@ active_tab: speakers
             <a href="#"><img src="/assets/img/speakers/Lamar-Wilson.png" alt="Lamar Wilson" title="Lamar Wilson"/></a>
             <div class="pic-caption">
                 <span><a href="#">Lamar Wilson</a></span><br>
-                <span>Black Bitcoin Billionaire</span><br>
+                <span>Founder, Black Bitcoin Billionaire</span><br>
             </div>
         </div>
         <div class="col">
@@ -107,13 +107,13 @@ active_tab: speakers
                 <span>Orange Pill Pusher<br>Founder, Bitcoin Chattanooga</span><br>
             </div>
         </div>
-        <!-- <div class="col">
+        <div class="col">
             <a href="#"><img src="/assets/img/speakers/John-Tinkelenberg.jpg" alt="John Tinkelenberg" title="John Tinkelenberg"/></a>
             <div class="pic-caption">
                 <span><a href="#">John Tinkelenberg</a></span><br>
-                <span></span><br>
+                <span>Content Marketing Manager, Casa</span><br>
             </div>
-        </div> -->
+        </div>
         <!-- <div class="col">
             <a href="#"><img src="/assets/img/speakers/Mike-Palmer.jpg" alt="Mike Palmer" title="Mike Palmer"/></a>
             <div class="pic-caption">

@@ -7,7 +7,7 @@ active_tab: schedule
 <div class="highlight-section2">
     <h2>Schedule</h2>
     <div class="white-divider-mid"></div>
-    <p>Friday, October 21st<br><a href="#beef-initiative-dinner-pumpkin-carving">7p-10p: Cattleman's Feast & Pumpkin Carving</a></p>
+    <p>Friday, October 21st<br><a href="#beef-initiative-dinner-pumpkin-carving">6p-10p: Cattleman's Feast & Pumpkin Carving</a></p>
     <br>
     <p>Saturday, October 22nd<br><a href="#speakers-workshops-schedule">9a-4:30p: Speakers & Bitcoin Workshops</a></p>
     <p><a href="#hodlween-costume-party">8p-2a: HODLween Costume Party</a></p>
@@ -26,7 +26,7 @@ active_tab: schedule
         </thead>
         <tbody class="align-middle">
             <tr>
-                <th scope="row">7:00p</th>
+                <th scope="row">6:00p</th>
                 <td>Welcome & Social</td>
             </tr>
             <tr>
