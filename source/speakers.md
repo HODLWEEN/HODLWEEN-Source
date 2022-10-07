@@ -45,7 +45,7 @@ active_tab: speakers
             </div>
         </div>
         <div class="col">
-            <a href="#"><img src="/assets/img/speakers/Jeff-Swann.jpg" alt="Jeff Swann" title="Jeff Swann"/></a>
+            <a href="#"><img src="/assets/img/speakers/Jeff-Swann2.jpg" alt="Jeff Swann" title="Jeff Swann"/></a>
             <div class="pic-caption">
                 <span><a href="#">Jeff Swann</a></span><br>
                 <span>Bitcoin Agorist</span>
