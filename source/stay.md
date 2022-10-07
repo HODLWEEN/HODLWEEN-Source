@@ -4,21 +4,35 @@ title: Stay
 active_tab: stay
 
 ---
-
+<div class="highlight-section2">
 <h2>Accommodations</h2> 
 <div class="white-divider-mid"></div>
+<p>Below are some hotels we recommend in the area. Airbnbs are a good option as well! All of the event locations are within 3 miles of uptown Charlotte.  </p>
+</div>
 
 <article>
-    <div class="color-image"><img src="/assets/img/pic2.jpg" /></div>
-    <a id="beef-initiative-dinner-pumpkin-carving" />
-    <h2>Cattleman's Feast & Pumpkin Carving</h2>
+    <div class="color-image"><img src="/assets/img/fairfield-mariott-hotel.jpg" /></div>
+    <h2>Fairfield Inn & Suites Charlotte Uptown</h2>
     <div class="white-divider"><div></div></div>
-    <!-- <div class="details"><div>
-        October 21st, 2022 &nbsp;&nbsp;&nbsp; 7pm-10pm &nbsp;&nbsp;&nbsp; <span>Lenny Boy Brewing</span>
-    </div></div> -->
-    <p>Join us Friday evening, Oct 21st for the Cattleman's Feast and pumpkin carving contest! Come enjoy beef raised by local ranchers and connect with other bitcoiners.</p>
     <ul class="buy-links">
-        <li><a href="/beef-initiative-dinner-pumpkin-carving" class="orange-pill-btn">More Details</a></li>
-        <!-- <li><a href="/tickets" class="orange-pill-btn">Buy Tickets</a></li> -->
+        <li><a href="https://www.marriott.com/en-us/hotels/cltut-fairfield-inn-and-suites-charlotte-uptown/overview/" target="_blank" class="orange-pill-btn">More Info</a></li>
+    </ul>
+</article>
+
+<article>
+    <div class="color-image"><img src="/assets/img/hilton-garden-inn-hotel.jpg" /></div>
+    <h2>Hilton Garden Inn Charlotte Uptown</h2>
+    <div class="white-divider"><div></div></div>
+    <ul class="buy-links">
+        <li><a href="https://www.hilton.com/en/hotels/cltupgi-hilton-garden-inn-charlotte-uptown/" target="_blank" class="orange-pill-btn">More Info</a></li>
+    </ul>
+</article>
+
+<article>
+    <div class="color-image"><img src="/assets/img/grand-bohemian-hotel.jpg" /></div>
+    <h2>Grand Bohemian Hotel Uptown</h2>
+    <div class="white-divider"><div></div></div>
+    <ul class="buy-links">
+        <li><a href="https://www.marriott.com/en-us/hotels/cltak-grand-bohemian-hotel-charlotte-autograph-collection/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0" target="_blank" class="orange-pill-btn">More Info</a></li>
     </ul>
 </article>

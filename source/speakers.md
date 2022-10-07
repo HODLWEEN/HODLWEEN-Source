@@ -9,25 +9,18 @@ active_tab: speakers
 <div class="white-divider-mid"></div>
 <div class="container speakers">
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-        <!-- <div class="col">
-            <a href="#"><img src="/assets/img/speakers/.jpg" alt="" title=""/></a>
-            <div class="pic-caption">
-                <span><a href="#"></a></span><br>
-                <span>Toxic Happy Hour</span><br>
-            </div>
-        </div> -->
-        <!-- <div class="col">
-            <a href="#"><img src="/assets/img/speakers/.jpg" alt="" title=""/></a>
-            <div class="pic-caption">
-                <span><a href="#"></a></span><br>
-                <span>Toxic Happy Hour</span><br>
-            </div>
-        </div> -->
         <div class="col">
-            <a href="#"><img src="/assets/img/speakers/Lamar-Wilson.png" alt="Lamar Wilson" title="Lamar Wilson"/></a>
+            <a href="#"><img src="/assets/img/speakers/pubby-toxic-happy-hour.jpg" alt="Pubby Toxic Happy Hour" title="Pubby Toxic Happy Hour"/></a>
             <div class="pic-caption">
-                <span><a href="#">Lamar Wilson</a></span><br>
-                <span>Founder, Black Bitcoin Billionaire</span><br>
+                <span><a href="#">Pubby</a></span><br>
+                <span>Toxic Happy Hour</span><br>
+            </div>
+        </div>
+        <div class="col">
+            <a href="#"><img src="/assets/img/speakers/anders-toxic-happy-hour.jpg" alt="Anders Toxic Happy Hour" title="Anders Toxic Happy Hour"/></a>
+            <div class="pic-caption">
+                <span><a href="#">Anders</a></span><br>
+                <span>Toxic Happy Hour</span><br>
             </div>
         </div>
         <div class="col">
@@ -38,10 +31,24 @@ active_tab: speakers
             </div>
         </div>
         <div class="col">
+            <a href="#"><img src="/assets/img/speakers/Lamar-Wilson.png" alt="Lamar Wilson" title="Lamar Wilson"/></a>
+            <div class="pic-caption">
+                <span><a href="#">Lamar Wilson</a></span><br>
+                <span>Founder, Black Bitcoin Billionaire</span><br>
+            </div>
+        </div>
+        <div class="col">
             <a href="#"><img src="/assets/img/speakers/Guy-Swann.jpg" alt="Guy Swann" title="Guy Swann"/></a>
             <div class="pic-caption">
                 <span><a href="#">Guy Swann</a></span><br>
                 <span>Bitcoin Audible Podcast</span><br>
+            </div>
+        </div>
+        <div class="col">
+            <a href="#"><img src="/assets/img/speakers/Jeff-Swann.jpg" alt="Jeff Swann" title="Jeff Swann"/></a>
+            <div class="pic-caption">
+                <span><a href="#">Jeff Swann</a></span><br>
+                <span>Bitcoin Agorist</span>
             </div>
         </div>
         <div class="col">
@@ -73,20 +80,6 @@ active_tab: speakers
             </div>
         </div>
         <!-- <div class="col">
-            <a href="#"><img src="/assets/img/speakers/Isaiah-Jackson.jpg" alt="Isaiah Jackson" title="Isaiah Jackson"/></a>
-            <div class="pic-caption">
-                <span><a href="#">Isaiah Jackson</a></span><br>
-                <span></span><br>
-            </div>
-        </div> -->
-        <div class="col">
-            <a href="#"><img src="/assets/img/speakers/Jeff-Swann.jpg" alt="Jeff Swann" title="Jeff Swann"/></a>
-            <div class="pic-caption">
-                <span><a href="#">Jeff Swann</a></span><br>
-                <span>Bitcoin Agorist</span>
-            </div>
-        </div>
-        <!-- <div class="col">
             <a href="#"><img src="/assets/img/speakers/Rodd-Workman.jpg" alt="Rodd Workman" title="Rodd Workman"/></a>
             <div class="pic-caption">
                 <span><a href="#">Rodd-Workman</a></span><br>
@@ -114,13 +107,20 @@ active_tab: speakers
                 <span>Content Marketing Manager, Casa</span><br>
             </div>
         </div>
-        <!-- <div class="col">
+        <div class="col">
+            <a href="#"><img src="/assets/img/speakers/Shawn-Flowers.jpg" alt="Shawn Flowers" title="Shawn Flowers"/></a>
+            <div class="pic-caption">
+                <span><a href="#">Shawn Flowers</a></span><br>
+                <span>Freedom Maximalist<br>Bull Bitcoin Missionary</span><br>
+            </div>
+        </div>
+        <div class="col">
             <a href="#"><img src="/assets/img/speakers/Mike-Palmer.jpg" alt="Mike Palmer" title="Mike Palmer"/></a>
             <div class="pic-caption">
                 <span><a href="#">Mike Palmer</a></span><br>
-                <span></span><br>
+                <span>Privacy Advocate & Crypto Enthusiast<br>Real Estate Investor</span><br>
             </div>
-        </div> -->
+        </div>
         <div class="col">
             <a href="#"><img src="/assets/img/speakers/Scott-Marmoll.jpg" alt="Scott Marmoll" title="Scott Marmoll"/></a>
             <div class="pic-caption">
@@ -142,13 +142,6 @@ active_tab: speakers
                 <span>Investment Banker<br>Mergers and Acquisitions</span>
             </div>
         </div>
-        <div class="col">
-            <a href="#"><img src="/assets/img/speakers/Shawn-Flowers.jpg" alt="Shawn Flowers" title="Shawn Flowers"/></a>
-            <div class="pic-caption">
-                <span><a href="#">Shawn Flowers</a></span><br>
-                <span>Freedom Maximalist<br>Bull Bitcoin Missionary</span><br>
-            </div>
-        </div>
     </div>
 </div>
 </div>
@@ -159,10 +152,23 @@ active_tab: speakers
 <div class="container speakers">
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
+            <a href="#"><img src="/assets/img/speakers/ymbfbb.jpg" alt="Yo Mama's Big Fat Booty Band" title="Yo Mama's Big Fat Booty Band"/></a>
+            <div class="pic-caption">
+                <span><a href="#">Yo Mama's Big Fat Booty Band</a></span>
+            </div>
+        </div>
+        <div class="col">
             <a href="#"><img src="/assets/img/speakers/texas-slim.jpg" alt="Texas Slim" title="Texas Slim"/></a>
             <div class="pic-caption">
                 <span><a href="#">Texas Slim</a></span><br>
                 <span>The Beef Initiative</span><br>
+            </div>
+        </div>
+        <div class="col">
+            <a href="#"><img src="/assets/img/speakers/phil-gud-jordan-rhame.jpg" alt="Ph&iacute;l G&uuml;d" title="Ph&iacute;l G&uuml;d"/></a>
+            <div class="pic-caption">
+                <span><a href="#">Ph&iacute;l G&uuml;d</a></span><br>
+                <span>DJ</span>
             </div>
         </div>
         <div class="col">
@@ -173,21 +179,9 @@ active_tab: speakers
             </div>
         </div>
         <div class="col">
-            <a href="#"><img src="/assets/img/speakers/phil-gud-jordan-rhame.jpg" alt="Ph&iacute;l G&uuml;d" title="Ph&iacute;l G&uuml;d"/></a>
-            <div class="pic-caption">
-                <span><a href="#">Ph&iacute;l G&uuml;d</a></span>
-            </div>
-        </div>
-        <div class="col">
             <a href="#"><img src="/assets/img/speakers/dj-skittles.jpg" alt="DJ Skittles" title="DJ Skittles"/></a>
             <div class="pic-caption">
                 <span><a href="#">DJ Skittles</a></span>
-            </div>
-        </div>
-        <div class="col">
-            <a href="#"><img src="/assets/img/speakers/ymbfbb.jpg" alt="Yo Mama's Big Fat Booty Band" title="Yo Mama's Big Fat Booty Band"/></a>
-            <div class="pic-caption">
-                <span><a href="#">Yo Mama's Big Fat Booty Band</a></span>
             </div>
         </div>
         <div class="col">

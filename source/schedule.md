@@ -222,7 +222,7 @@ active_tab: schedule
                 <td>Costume Contest Winners Announced</td>
             </tr>
             <tr>
-                <th scope="row">12:00a-2:00a</th>
+                <th scope="row">12:00a</th>
                 <td>DJ Ph&iacute;l G&uuml;d</td>
             </tr>
             <tr>
