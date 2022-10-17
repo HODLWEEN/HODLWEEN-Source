@@ -14,7 +14,7 @@ active_tab: pleb-army-supporters
         <a href="https://wtfhappenedin1971.com" target="_blank">Satoshi</a> 768,351 sats<br> 
         Mike 630,453 sats<br> 
         <a href="https://www.exponentiallayers.com/" target="_blank">Andy</a> 566,360 sats<br>
-        <a href="https://bitcoin101pro.com/" target="_blank">Shawn</a> 151,639 sats<br> 
+        <a href="https://bitcoin101pro.com/products" target="_blank">Shawn</a> 151,639 sats<br> 
         <a href="https://medium.com/@MichaelYouKnow" target="_blank">Michael</a> $214<br>
         <a href="https://bitblockboom.com/" target="_blank">Gary</a> $200<br>
         Rodd $161<br>

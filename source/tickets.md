@@ -28,7 +28,7 @@ active_tab: tickets
 	<p><b>Full HODL Pass includes access to all HODLween events.</b> This includes Cattleman's Feast & Pumpkin Carving, Speakers & Bitcoin Workshops, and VIP ticket to the HODLween Costume Party!</p>
 	<ul class="buy-links">
 		<li><a href="https://hodlween-full-hodl-pass.eventbrite.com" target="_blank" class="orange-pill-btn">Buy Passes</a></li>
-		<li><a href="https://checkout.opennode.com/p/25ed816e-d5ad-4597-8e66-6c1445310157" target="_blank" class="buy-link">Pay w/ Bitcoin for 10% discount ></a></li>
+		<li><a href="https://checkout.opennode.com/p/25ed816e-d5ad-4597-8e66-6c1445310157" target="_blank" class="buy-link">Pay w/ Bitcoin for 50% discount ></a></li>
 	</ul>
 </article>
 
@@ -38,20 +38,20 @@ active_tab: tickets
 	<h2>Cattleman's Feast & Pumpkin Carving</h2>
 	<div class="white-divider"><div></div></div>
 	<div class="details"><div>
-		October 21st, 2022 &nbsp;&nbsp;&nbsp; 7pm-10pm &nbsp;&nbsp;&nbsp; <span>Lenny Boy Brewing</span>
+		October 21st, 2022 &nbsp;&nbsp;&nbsp; 6pm-10pm &nbsp;&nbsp;&nbsp; <span>Lenny Boy Brewing</span>
 	</div></div>
-	<p><span class="price" id="meatmeal-price">$70.21</span></p>
+	<p><span class="price" id="meatmeal-price">$50.21</span></p>
 	<p>Join us Friday evening, Oct 21st for the Cattleman's Feast and pumpkin carving contest! Come enjoy beef raised by local ranchers and connect with other bitcoiners.</p>
 	<ul class="buy-links">
 		<li><a href="https://beef-initiative-dinner-pumpkin-carving.eventbrite.com" target="_blank" class="orange-pill-btn">Buy Tickets</a></li>
-		<li><a href="https://checkout.opennode.com/p/fa3d55e4-24d0-4706-a29e-6f7499be69e6" target="_blank" class="buy-link">Pay w/ Bitcoin for 10% discount ></a></li>
+		<li><a href="https://checkout.opennode.com/p/fa3d55e4-24d0-4706-a29e-6f7499be69e6" target="_blank" class="buy-link">Pay w/ Bitcoin for 50% discount ></a></li>
 	</ul>
 </article>
 
 <article>
 	<div class="color-image"><img src="/assets/img/pic6.jpg" /></div>
 	<a id="speakers-workshops-schedule" />
-	<h2>Speakers & Bitcoin 101 Workshops</h2>
+	<h2>Speakers & Bitcoin Workshops</h2>
 	<div class="white-divider"><div></div></div>
 	<div class="details"><div>
 		October 22nd, 2022 &nbsp;&nbsp;&nbsp; 9am-4:30pm &nbsp;&nbsp;&nbsp; <span>The McColl Center</span>
@@ -60,7 +60,7 @@ active_tab: tickets
 	<p>Join us Saturday Oct 22nd for an educational day of Bitcoin only topics with speakers, panel discussions, debates, and workshops! This day will be a great event wherever you are on your Bitcoin journey!</p>
 	<ul class="buy-links">
 		<li><a href="https://speakers-workshops-schedule.eventbrite.com" target="_blank" class="orange-pill-btn">Buy Tickets</a></li>
-		<li><a href="https://checkout.opennode.com/p/8d732314-091b-4672-a718-7bda5a06b1b0" target="_blank" class="buy-link">Pay w/ Bitcoin for 10% discount ></a></li>
+		<li><a href="https://checkout.opennode.com/p/8d732314-091b-4672-a718-7bda5a06b1b0" target="_blank" class="buy-link">Pay w/ Bitcoin for 50% discount ></a></li>
 	</ul>
 </article>
 
@@ -73,9 +73,9 @@ active_tab: tickets
 		October 22nd, 2022 &nbsp;&nbsp;&nbsp; 8pm-2am &nbsp;&nbsp;&nbsp; <span>The Hamilton</span>
 	</div></div>
 	<p><span class="price"><i>GA:</i> <span id="party-price">$80.21</span> &nbsp; <i>VIP:</i> <span id="partyvip-price">$110.21</span></span></p>
-	<p>Join us Saturday night, Oct 22nd for an epic Halloween costume party! Immerse yourself in a night of thrills with live music, DJs, karaoke room, fortune teller, secrect speakeasy, hidden bitcoin, performers, and the "Best Satoshi Nakamoto" costume contest!</p>
-	<p>VIP ticket includes appetizers, early admission at 8pm, and OPEN BAR from 8pm-9pm!<br><a href="https://checkout.opennode.com/p/6c93bcc4-58f6-4980-bca9-4b9f8ae1163f" target="_blank" class="buy-link">Pay w/ Bitcoin for 10% discount ></a></p>
-	<p>GA ticket entry is at 9pm.<br><a href="https://checkout.opennode.com/p/60879854-9040-42dc-8922-a2842af178cc" target="_blank" class="buy-link">Pay w/ Bitcoin for 10% discount ></a></p>
+	<p>Join us Saturday night, Oct 22nd for an epic Halloween costume party! Immerse yourself in a night of thrills with live music, DJs, karaoke room, fortune teller, secrect speakeasy, hidden bitcoin, performers, and the "Best Satoshi Nakamoto" costume contest! This is a 21+ event.</p>
+	<p>VIP ticket includes appetizers, early admission at 8pm, and OPEN BAR from 8pm-9pm!<br><a href="https://checkout.opennode.com/p/6c93bcc4-58f6-4980-bca9-4b9f8ae1163f" target="_blank" class="buy-link">Pay w/ Bitcoin for 50% discount ></a></p>
+	<p>GA ticket entry is at 9pm.<br><a href="https://checkout.opennode.com/p/60879854-9040-42dc-8922-a2842af178cc" target="_blank" class="buy-link">Pay w/ Bitcoin for 50% discount ></a></p>
 	<ul class="buy-links">
 		<li><a href="https://hodlween-costume-party.eventbrite.com" target="_blank" class="orange-pill-btn">Buy Tickets</a></li>
 	</ul>

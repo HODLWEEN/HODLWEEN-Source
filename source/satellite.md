@@ -42,7 +42,7 @@ active_tab: satellite
     <div class="details"><div>
         Anytime! &nbsp;&nbsp;&nbsp; <span>1800 Central Ave, Charlotte, NC 28205</span>
     </div></div>
-    <p>Southern Strain Brewery accepts bitcoin and hosts every one of our <a href="https://www.meetup.com/BitcoinCharlotte/events/">Saturday Sats for Bitcoin Charltote</a>! Go buy some beer and show them your support!</p>
+    <p>Southern Strain Brewery accepts bitcoin and hosts every one of our <a href="https://www.meetup.com/BitcoinCharlotte/events/">Saturday Sats for Bitcoin Charlotte</a>! Go buy some beer and show them your support!</p>
     <ul class="buy-links">
         <li><a href="https://www.southernstrainbrewing.com/" target="_blank" class="orange-pill-btn">More Info</a></li>
     </ul>

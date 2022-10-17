@@ -163,7 +163,7 @@ active_tab: schedule
                 <th scope="row">2:30p-3:00p</th>
                 <td class="commit">
                     <b>Bitcoin & The Revolution</b><br>
-                    <span>Guy & Jeff Swan</span>
+                    <span>Guy & Jeff Swann</span>
                 </td>
                 <!-- <td></td> -->
             </tr>
