@@ -9,7 +9,6 @@ active_tab: pleb-army-supporters
 <div class="highlight-section1">
     <h2>Pleb Army Supporters</h2>
     <div class="white-divider-mid"></div>
-    "The corrupt fear us. The honest support us. The heroic join us."
         <div class="pleb-army">
             <a><img src="/anon.jpg"/>John</a> <!-- $161 -->
             <a><img src="/anon.jpg"/>Rodd</a><!-- $161 -->
@@ -22,5 +21,7 @@ active_tab: pleb-army-supporters
             <a href="https://twitter.com/babeswhobitcoin" target="_blank"><img src="https://pbs.twimg.com/profile_images/1611776705969913856/-ZnH2ahJ_400x400.jpg"/>Liz</a> <!-- 3,975,678 sats + $500 -->
         </div>
         <br><br>
+    "The corrupt fear us. The honest support us. The heroic join us."
+    <br>
     <a href="https://store.bitcoincharlotte.org/apps/2uyBkNxiTUGndZ4A2N4DcYPhCmfy/pos" target="_blank" class="orange-pill-btn">Join Us!</a>
 </div>
