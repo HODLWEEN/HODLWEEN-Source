@@ -121,27 +121,6 @@ active_tab: speakers
                 <span>Privacy Advocate & Crypto Enthusiast<br>Real Estate Investor</span><br>
             </div>
         </div>
-        <div class="col">
-            <a href="#"><img src="/assets/img/speakers/Scott-Marmoll.jpg" alt="Scott Marmoll" title="Scott Marmoll"/></a>
-            <div class="pic-caption">
-                <span><a href="#">Scott Marmoll</a></span><br>
-                <span>Bitcoin Maximalist</span><br>
-            </div>
-        </div>
-        <div class="col">
-            <a href="#"><img src="/assets/img/speakers/Jack-Matthews.jpg" alt="Jack Matthews" title="Jack Matthews"/></a>
-            <div class="pic-caption">
-                <span><a href="#">Jack Matthews</a></span><br>
-                <span>Investment Banker<br>Mergers and Acquisitions</span>
-            </div>
-        </div>
-        <div class="col">
-            <a href="#"><img src="/assets/img/speakers/Matthew-Menne.jpg" alt="Matt Menne" title="Matt Menne"/></a>
-            <div class="pic-caption">
-                <span><a href="#">Matt Menne</a></span><br>
-                <span>Investment Banker<br>Mergers and Acquisitions</span>
-            </div>
-        </div>
     </div>
 </div>
 </div>

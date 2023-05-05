@@ -1,15 +1,14 @@
 ---
-layout: default2023
+layout: default
 title: Pleb Army Supporters
 active_tab: pleb-army-supporters
 
 ---
 
 <a id="pleb-army"></a>
-<div class="highlight-section1">
+<div class="highlight-section2">
     <h2>Pleb Army Supporters</h2>
     <div class="white-divider-mid"></div>
-    "The corrupt fear us. The honest support us. The heroic join us."
         <div class="pleb-army">
             <a><img src="/anon.jpg"/>John</a> <!-- $161 -->
             <a><img src="/anon.jpg"/>Rodd</a><!-- $161 -->
@@ -21,6 +20,9 @@ active_tab: pleb-army-supporters
             <a href="https://wtfhappenedin1971.com" target="_blank"><img src="https://wtfhappenedin1971home.files.wordpress.com/2020/06/img_0540-1_arrow.jpg"/>Satoshi</a> <!-- 768,351 sats -->
             <a href="https://twitter.com/babeswhobitcoin" target="_blank"><img src="https://pbs.twimg.com/profile_images/1611776705969913856/-ZnH2ahJ_400x400.jpg"/>Liz</a> <!-- 3,975,678 sats + $500 -->
         </div>
-        <br><br>
-    <a href="https://store.bitcoincharlotte.org/apps/2uyBkNxiTUGndZ4A2N4DcYPhCmfy/pos" target="_blank" class="orange-pill-btn">Join Us!</a>
+</div>
+
+
+<div class="highlight-section2">
+    <h4><a href="/2022/sponsorship">Click here for sponsorship opportunities.</a></h4>
 </div>

@@ -84,5 +84,5 @@ active_tab: tickets
 <div class="highlight-section3">
     <h2>Sponsors</h2>
     <div class="white-divider-mid"></div>
-    <p>Sponsors will be listed soon!<br><a href="/sponsorship">Check out our sponsorship opportunities here!</a></p>
+    <p>Sponsors will be listed soon!<br><a href="/2022/sponsorship">Check out our sponsorship opportunities here!</a></p>
 </div>

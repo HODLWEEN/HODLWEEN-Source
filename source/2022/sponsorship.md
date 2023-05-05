@@ -11,7 +11,7 @@ active_tab: sponsorship
     <div class="headline-bg-alt">
         <p>HODLween will take place in Charlotte, NC on Oct 21st and 22nd. This bitcoin ONLY celebration will bring bitcoiners from all over the nation to celebrate HODLing, privacy, security and freedom. This will be a great opportunity to support education surrounding bitcoin and showcase your business or product in front of hundreds of bitcoiners!</p>
         <br><br>
-        <p>For sponsorship opportunities contact<br><a href="mailto:hodl@bitcoincharlotte.org">hodl@bitcoincharlotte.org</a> or <a href="tel:7049963749">704-996-3749</a>.</p>
+        <p>For sponsorship opportunities contact<br><a href="mailto:hodl@bitcoincharlotte.org">hodl@bitcoincharlotte.org</a>.</p>
     </div>
 </div>
 

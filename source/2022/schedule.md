@@ -75,9 +75,9 @@ active_tab: schedule
             </tr>
             <tr>
                 <th scope="row">9:00a-9:10a</th>
-                <td colspan="2">
-                    Bitcoin Charlotte Welcome<br>
-                    <span><a href="/speaker/Jacob-Parrish">Jacob Parrish</a> & <a href="/speaker/Liz-Parrish">Liz Parrish</a></span>
+                <td colspan="2" class="commit">
+                    <b>Bitcoin Charlotte Welcome</b><br>
+                    <span>Jacob Parrish & Liz Parrish</span>
                 </td>
             </tr>
             <tr>
@@ -181,7 +181,7 @@ active_tab: schedule
             <tr>
                 <th scope="row">4:30p</th>
                 <td colspan="2">Bitcoin Charlotte Closing Remarks<br>
-                <span><a href="/speaker/Liz-Parrish">Liz Parrish</a> & <a href="/speaker/Jacob-Parrish">Jacob Parrish</a></span>
+                <span>Liz Parrish & Jacob Parrish</span>
                 </td>
             </tr>
         </tbody>
@@ -237,5 +237,5 @@ active_tab: schedule
 
 <div class="highlight-section2">
     <h2>Take the Orange Pill</h2>
-    <a href="/tickets" target="_blank" class="orange-pill-btn">Buy Tickets</a>
+    <a href="/2022/tickets" target="_blank" class="orange-pill-btn">Buy Tickets</a>
 </div>
