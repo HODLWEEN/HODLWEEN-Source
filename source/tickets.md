@@ -5,12 +5,12 @@ active_tab: tickets
 
 ---
 
-<div class="highlight-section2" data-component="ticker">
+<!-- <div class="highlight-section2" data-component="ticker">
 	<div class="ticket-price-increase">
 	    <span id="ticket-price-increase-hdr">Ticket Price Increases in</span>
 	    <div id="countdown-ticker"></div>
 	</div>
-</div>
+</div> -->
 
 <!-- <div class="highlight-section2">
     <h2>HODLween Schedule</h2>
