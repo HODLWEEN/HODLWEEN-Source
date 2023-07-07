@@ -22,8 +22,8 @@ active_tab: pleb-army-supporters
         <a href="https://twitter.com/babeswhobitcoin" target="_blank"><img src="https://pbs.twimg.com/profile_images/1611776705969913856/-ZnH2ahJ_400x400.jpg"/>Liz</a> <!-- 3,975,678 sats + $500 -->
     </div>
     <br><br>
-    <p>This bitcoin ONLY celebration will bring bitcoiners from all over the world to celebrate HODLing, privacy, security and freedom. This event is thrown by local meetup group, Bitcoin Charlotte. It is funded by ourselves and we invite you to join us in spreading the magic and joy of this Bitcoin only celebration. By supporting HODLween, you are directly investing in the future of the Bitcoin movement and paving the way for even greater awareness and adoption. Donate now and be a part of the driving force behind the orange revolution. You can choose to donate anonymously or publicly.</p>
-    <p>If you are interested in other sponsorship opportunities, please contact Liz at <a href="mailto:liz@bitcoincharlotte.org" target="_blank">liz@bitcoincharlotte.org</a> or 704-996-3749.</p>
+    <p>This Bitcoin celebration will bring bitcoiners from all over the world to celebrate HODLing, privacy, self sovereignty and freedom. This event is thrown by local meetup group, Bitcoin Charlotte. It is funded by ourselves and we invite you to join us in spreading the magic and joy of this Bitcoin only celebration. By supporting HODLween, you are directly investing in the future of the Bitcoin movement and paving the way for even greater awareness and adoption. Donate now and be a part of the driving force behind the orange revolution. You can choose to donate anonymously or publicly.</p>
+    <p>If you are interested in sponsorship opportunities, please contact Liz at <a href="mailto:liz@bitcoincharlotte.org" target="_blank">liz@bitcoincharlotte.org</a> or <a href="tel:7049963749" target="_blank">704-996-3749</a>.</p>
     <p>"The corrupt fear us. The honest support us. The heroic join us."</p>
     <br>
     <a href="https://store.bitcoincharlotte.org/apps/2uyBkNxiTUGndZ4A2N4DcYPhCmfy/pos" target="_blank" class="orange-pill-btn">Join Us!</a>
