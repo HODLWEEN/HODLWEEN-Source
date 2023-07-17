@@ -26,6 +26,6 @@ active_tab: pleb-army-supporters
     <p>If you are interested in sponsorship opportunities, please contact Liz at <a href="mailto:liz@bitcoincharlotte.org" target="_blank">liz@bitcoincharlotte.org</a> or <a href="tel:7049963749" target="_blank">704-996-3749</a>.</p>
     <p>"The corrupt fear us. The honest support us. The heroic join us."</p>
     <br>
-    <a href="https://store.bitcoincharlotte.org/apps/2uyBkNxiTUGndZ4A2N4DcYPhCmfy/pos" target="_blank" class="orange-pill-btn">Join Us!</a>
+    <a href="https://btcpayserver.bitcoincharlotte.org/apps/2uyBkNxiTUGndZ4A2N4DcYPhCmfy/pos" target="_blank" class="orange-pill-btn">Join Us!</a>
 </div>
 

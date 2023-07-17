@@ -161,7 +161,7 @@ active_tab: faq
                         </div>
                         <div class="collapse" id="collapseTwoC" aria-labelledby="headingTwoC" data-parent="#faqAccordion">
                             <div class="card-body">
-                                <p>Yes! <a href="/pleb-army-supporters" target="_blank">Donations</a> are also welcomed.</p> 
+                                <p>Yes! Donations are also <a href="/pleb-army-supporters" target="_blank">welcomed</a>.</p> 
                             </div>
                         </div>
                     </div>
