@@ -34,7 +34,7 @@ active_tab: faq
                         </div>
                         <div class="collapse" id="collapseFour" aria-labelledby="headingFour" data-parent="#faqAccordion">
                             <div class="card-body">
-                                <p>NO! HODLween is designed for beginners and hodlers alike. If you are brand new to bitcoin, expect to learn a lot about the culture - we have a lot of memes for you to catch up on! </p> 
+                                <p>NO! HODLween is designed for beginners and hodlers alike. If you are brand new to bitcoin, expect to learn a lot about the culture - we have plenty of fun memes for you to catch up on! </p> 
                             </div>
                         </div>
                     </div>
@@ -56,7 +56,7 @@ active_tab: faq
                         </div>
                         <div class="collapse" id="collapseThree" aria-labelledby="headingThree" data-parent="#faqAccordion">
                             <div class="card-body">
-                                <p>By buying a <a href="/tickets" target="_blank">HODLween ticket</a>! HODLween is our largest event and each ticket purchase helps us raise awareness about Bitcoin through our events and intitiaves throughout the year. If you can not attend HODLween, please consider joining the pleb army and <a href="/pleb-army-supporters" target="_blank">donating here</a>.</p> 
+                                <p>By buying a <a href="/tickets" target="_blank">HODLween ticket</a>! HODLween is our largest event and each ticket purchase helps us raise awareness about Bitcoin through our events and intitiaves throughout the year. If you can not attend HODLween, please consider joining the pleBarmy and <a href="/pleb-army-supporters" target="_blank">donating here</a>.</p> 
                             </div>
                         </div>
                     </div>
@@ -209,7 +209,7 @@ active_tab: faq
                         </div>
                         <div class="collapse" id="collapseOneD" aria-labelledby="headingOneD" data-parent="#faqAccordion">
                             <div class="card-body">
-                                <p>This party is open to everyone! While it might be sponsored by Bitcoin Charlotte, this is simply a fun bitcoin-themed Halloween party in the Queen City. Bring your friends! </p>
+                                <p>This party is open to everyone over 21 years old! While it might be sponsored by Bitcoin Charlotte, this is simply a fun bitcoin-themed Halloween party in the Queen City. Bring your friends! </p>
                             </div>
                         </div>
                     </div>
