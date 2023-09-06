@@ -9,7 +9,7 @@ active_tab: events
 <div class="highlight-section">
     <h2>HODLween Week Schedule</h2>
     <div class="white-divider-mid"></div>
-    <a href="https://docs.google.com/spreadsheets/d/1Bb7E2R9TFuuTv5TJzwcMuH2vLpt4JZoYQ5_JbWA_f5Y/edit?usp=sharing" target="_blank" ><img width="100%" src="/assets/img/hodlween-week-event-schedule.jpg" /></a>
+    <a href="/assets/img/hodlween-week-event-schedule.jpg" target="_blank" ><img width="100%" src="/assets/img/hodlween-week-event-schedule.jpg" /></a>
     <br><br>
     <a href="https://docs.google.com/spreadsheets/d/1Bb7E2R9TFuuTv5TJzwcMuH2vLpt4JZoYQ5_JbWA_f5Y/edit?usp=sharing" target="_blank" >Open HODLween Week in Google Sheets</a>
 </div>
