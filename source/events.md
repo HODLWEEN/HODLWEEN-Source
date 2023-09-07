@@ -137,7 +137,3 @@ active_tab: events
 </article>
 
 
-
-Bitcoin Charlotte Workshop - Learn to HODL with Foundation's Passport
-
-
