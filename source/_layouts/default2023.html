@@ -47,7 +47,7 @@
         {% block head_scripts %}
         {% endblock %}
     </head>
-    <body class="special-event d-flex flex-column h-100">
+    <body {% if page.active_tab == "" %} id="home"{% else %} id="subpage"{% endif %} class="special-event d-flex flex-column h-100">
         <nav class="navbar navbar-expand-md navbar-dark">
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 {% set navigation_bar = [['', 'Home'], ['https://store.bitcoincharlotte.org/hodlween', 'Tickets'], ['events','Events'], ['events#skeleton-events','Skeleton Events'], ['hotel-accommodations', 'Hotel'], ['pleb-army-supporters', 'Pleb Army'], ['faq', 'FAQ']] %}
