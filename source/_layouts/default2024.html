@@ -48,19 +48,16 @@
         {% endblock %}
     </head>
     <body {% if page.active_tab == "" %} id="home"{% else %} id="subpage"{% endif %} class="special-event d-flex flex-column h-100">
-
-        <div class="alert alert-primary alert-top-of-page" role="alert"> This is the archived HODLWEEN 2023 website. Links and styling may be broken. <a href="/"> Check out this year's HODLWEEN</a>! </div>
-
         <nav class="navbar navbar-expand-md navbar-dark">
             <div class="collapse navbar-collapse" id="navbarCollapse">
-                {% set navigation_bar = [['', 'Home'], ['https://store.bitcoincharlotte.org/hodlween', 'Tickets'], ['events','Events'], ['events#skeleton-events','Skeleton Events'], ['hotel-accommodations', 'Hotel'], ['pleb-army-supporters', 'Pleb Army'], ['faq', 'FAQ']] %}
+                {% set navigation_bar = [['', 'Home'], ['#buy-tickets', 'Tickets'], ['https://6.tabconf.com/hotel', 'Hotel'], ['#faq', 'FAQ'], ['#gallery', 'Gallery']] %}
                 {% block navigation %}
                 <ul class="navbar-nav mr-auto">
                     {% for item in navigation_bar %}
                     <li{% if page.active_tab == item[0] %} class="active"{% endif %}>
                         <div class="tri tri2"></div>
-                        {% if item[1] != "Tickets" %}
-                            <a class="nav-link" href="/2023{{ site.url }}/{{item[0]}}">{{item[1]}}</a>
+                        {% if item[1] != "Hotel" %}
+                            <a class="nav-link" href="{{ site.url }}/{{item[0]}}">{{item[1]}}</a>
                         {% else %}
                             <a class="nav-link" href="{{item[0]}}">{{item[1]}}</a>
                         {% endif %}
@@ -80,11 +77,14 @@
                 <div class="row justify-content-center">
                     <div class="col">
                         <div class="header justify-content-center">
-                            <span class="headline party"><span>The Bitcoin</span><br>Halloween Celebration</span>
+                            <span class="headline party"><span>The Bitcoin</span><br>Halloween Party</span>
                             <!-- <div class="white-divider-mid with-bg top"></div> -->
                             <br>
-                            <span class="headline2 party"><span>october 20th & 21st</span><br>Charlotte, NC</span>
-                            <a href="https://store.bitcoincharlotte.org/hodlween" target="_blank" class="orange-pill-btn">Buy Tickets</a>
+                            <span class="headline2 party"><span>Oct 26th</span> &nbsp; Atlanta, GA</span>
+                            <a href="https://btcpayserver.bitcoincharlotte.org/plugins/TicketTailor/2z2GtmrEbY4Sc4foPBjn2sAhjiaa" target="_blank" id="buy-tickets" class="orange-pill-btn">Buy Tickets</a>
+                            <br>
+                            <a href="https://www.tickettailor.com/events/bitcoincharlotte/1307111" target="_blank" class="under-orange-pill-btn" >or Buy Tickets w/ Fiat</a>
+
                         </div>
                         {% block content_wrapper %}{% block content %}{% endblock %}{% endblock %}
                     </div>
@@ -97,14 +97,14 @@
                     <div class="row">
                         <div class="col">
                             
-                            <h3>hodlween 2023</h3>
+                            <h3>hodlween 2024</h3>
                             <?xml version="1.0" encoding="UTF-8"?>
                             <div class="social-media">
-                                <a href="https://iris.to/hodl@bitcoincharlotte.org" target="_blank" class="fa-solid fa-feather fa-2xl"></a>
+                                <a href="https://iris.to/npub1s3lr24j7pysn45yzmkky8pvrh7257vy6mxfrtskmyzycd3m0rxwstgdgdu" target="_blank" class="fa-solid fa-feather fa-2xl"></a>
                                 <a href="https://t.me/joinchat/GRK-_ZZ8Qz7U34nB" target="_blank" class="fa-brands fa-telegram fa-2xl"></a>
                                 <a href="https://www.meetup.com/bitcoincharlotte/" target="_blank" class="fa-brands fa-meetup fa-2xl"></a>
-                                <a href="https://twitter.com/Bitcoin_CLT" target="_blank" class="fa-brands fa-twitter fa-2xl"></a>
-                                <a href="https://instagram.com/bitcoincharlotte" target="_blank" class="fa-brands fa-instagram fa-2xl"></a>
+                                <a href="https://twitter.com/hodlween" target="_blank" class="fa-brands fa-twitter fa-2xl"></a>
+                                <a href="https://instagram.com/hodlween" target="_blank" class="fa-brands fa-instagram fa-2xl"></a>
                                 <a href="https://www.youtube.com/channel/UCKwingqx30KWmKHuLhEpXfA" target="_blank" class="fa-brands fa-youtube fa-2xl"></a>
                             </div>
                             <svg id="rabbit" data-name="rabbit" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 677 326">
@@ -117,12 +117,12 @@
 
                             <br><br> <br><br>
                             <ul class="footer-nav">
-                                <li><a href="https://bitcoincharlotte.org">Presented by Bitcoin Charlotte</a></li>
-                                <li>Questions? <a href="mailto:hodl@bitcoincharlotte.org">Contact Us</a></li>
+                                <li><a href="http://bitcoincharlotte.org">Presented by Bitcoin Charlotte</a></li>
+                                <li>Questions? <a href="mailto:hodlween@bitcoincharlotte.org">Contact Us</a></li>
                             </ul>
                             <ul class="footer-nav">
                                 <!-- <li><small>Bitcoin Charlotte does not give finincial advice. We are not responsible for loss of funds.</small></li> -->
-                                <li><small>Site created by <a href="https://twitter.com/btcknight21">btcknight21</a> | Generated with <a href="https://sculpin.io/">Sculpin</a></small></li>
+                                <li><small>Site created by <a href="https://iris.to/npub14w05ezumgjzlgv02sp8uwgt24savfu6xddmhycvm4dczgtcf9jeqymsne2">btcknight21</a> | Generated with <a href="https://sculpin.io/">Sculpin</a></small></li>
                                 <li><small><a href="https://github.com/hodlween">GitHub Source</a></small></li>
                             </ul>
                         </div>
