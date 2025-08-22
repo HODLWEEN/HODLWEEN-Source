@@ -50,18 +50,16 @@
     </head>
     <body {% if page.active_tab == "" %} id="home"{% else %} id="subpage"{% endif %} class="special-event d-flex flex-column h-100">
 
-        <div class="alert alert-primary alert-top-of-page" role="alert"> This is the archived HODLWEEN 2024 website. Links and styling may be broken. <a href="/"> Check out this year's HODLWEEN</a>! </div>
-
         <nav class="navbar navbar-expand-md navbar-dark">
             <div class="collapse navbar-collapse" id="navbarCollapse">
-                {% set navigation_bar = [['', 'Home'], ['#buy-tickets', 'Tickets'], ['https://6.tabconf.com/hotel', 'Hotel'], ['#faq', 'FAQ'], ['#gallery', 'Gallery'], ['https://6.tabconf.com/', 'TABConf']] %}
+                {% set navigation_bar = [['', 'Home'], ['#buy-tickets', 'Tickets'], ['#faq', 'FAQ'], ['#costume-contest', 'Contest Winners'], ['#gallery', 'Gallery']] %}
                 {% block navigation %}
                 <ul class="navbar-nav mr-auto">
                     {% for item in navigation_bar %}
                     <li{% if page.active_tab == item[0] %} class="active"{% endif %}>
                         <div class="tri tri2"></div>
                         {% if item[1] != "Hotel" and item[1] != "TABConf" %}
-                            <a class="nav-link" href="{{ site.url }}/2024/{{item[0]}}">{{item[1]}}</a>
+                            <a class="nav-link" href="{{ site.url }}/{{item[0]}}">{{item[1]}}</a>
                         {% else %}
                             <a class="nav-link" target="_blank" href="{{item[0]}}">{{item[1]}}</a>
                         {% endif %}
@@ -84,10 +82,10 @@
                             <span class="headline party"><span>The Bitcoin</span><br>Halloween Party</span>
                             <!-- <div class="white-divider-mid with-bg top"></div> -->
                             <br>
-                            <span class="headline2 party"><span>Oct 26th</span> &nbsp; Atlanta, GA</span>
-                            <a href="https://btcpayserver.bitcoincharlotte.org/plugins/TicketTailor/2z2GtmrEbY4Sc4foPBjn2sAhjiaa" target="_blank" id="buy-tickets" class="orange-pill-btn">Buy Tickets</a>
+                            <span class="headline2 party"><span>Oct 31st, 2025</span> &nbsp; Charlotte, NC</span>
+                            <a href="https://btcpayserver.bitcoincharlotte.org/plugins/TicketTailor/VvJPfBkHcXK4yd7ZTSLyfvVcMr2" target="_blank" id="buy-tickets" class="orange-pill-btn">Buy Tickets</a>
                             <br>
-                            <a href="https://www.tickettailor.com/events/bitcoincharlotte/1307111" target="_blank" class="under-orange-pill-btn" >or Buy Tickets w/ Fiat</a>
+                            <a href="https://www.tickettailor.com/events/bitcoincharlotte/1825739" target="_blank" class="under-orange-pill-btn" >or Buy Tickets w/ Fiat</a>
 
                         </div>
                         {% block content_wrapper %}{% block content %}{% endblock %}{% endblock %}
